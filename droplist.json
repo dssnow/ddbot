@@ -1,0 +1,6099 @@
+{
+  "Aqua Visor": [
+    "Abort Command",
+    "Spinobaby"
+  ],
+  "Iron Horns": [
+    "Abort Command",
+    "Obsidian",
+    "Xaphan Flying",
+    "Nitorkkar"
+  ],
+  "DJ Headphones Blue": [
+    "Abort Command",
+    "Pythos"
+  ],
+  "Blue T-Rex": [
+    "Abort Command",
+    "T-Rex",
+    "Allosaurus"
+  ],
+  "Hero Flag": [
+    "Abort Command",
+    "Ogre Error"
+  ],
+  "White Whiskers": [
+    "Albino Squirrel",
+    "Red Panda"
+  ],
+  "White Cowboy Hat": [
+    "Albino Squirrel",
+    "Python"
+  ],
+  "White Teddy": [
+    "Albino Squirrel",
+    "Diamond"
+  ],
+  "Tail Fire Ivory": [
+    "Albino Squirrel",
+    "Great Bear",
+    "Orca"
+  ],
+  "Warrior Feathers": [
+    "Albino Squirrel",
+    "Black Squirrel",
+    "Emu",
+    "Hawk",
+    "Lyrebird",
+    "Red Squirrel",
+    "Squirrel",
+    "Ostrich"
+  ],
+  "White Hair ribbon": [
+    "Albino Squirrel",
+    "Hamster",
+    "Guinea Pig",
+    "Capybara"
+  ],
+  "Giant Silver Horns": [
+    "Alpine Ibex"
+  ],
+  "Ibex Horns": [
+    "Alpine Ibex"
+  ],
+  "Long Woolen Scarf": [
+    "Alpine Ibex",
+    "Emu",
+    "Sasquatch",
+    "Skyscraper",
+    "Ostrich"
+  ],
+  "Crimson Long Horns": [
+    "Alpine Ibex",
+    "Angler"
+  ],
+  "goat horns": [
+    "Alpine Ibex",
+    "Black Mountain Goat",
+    "Brown Mountain Goat",
+    "White Mountain Goat"
+  ],
+  "Yellow Vial": [
+    "Amanita Carnivorae"
+  ],
+  "Red Hoverboard": [
+    "Amanita Carnivorae"
+  ],
+  "I'm Confused!!!": [
+    "Amanita Carnivorae",
+    "Cave Beast",
+    "Gallimimus",
+    "Haunted Tower",
+    "Ice Nasty"
+  ],
+  "Red Potion": [
+    "Amanita Carnivorae"
+  ],
+  "Amethyst Horns": [
+    "Amarantha",
+    "Crystal Flying",
+    "Pretus Flying"
+  ],
+  "Purple Dragon Plushie": [
+    "Amarantha",
+    "Drako Magus Flying",
+    "Pretus Flying"
+  ],
+  "Magitech Bracer R": [
+    "Amarantha"
+  ],
+  "DJ Headphones Purple": [
+    "Amarantha",
+    "Sapphire"
+  ],
+  "Purple Crystal Shard": [
+    "Amarantha",
+    "Hyena",
+    "Night Dragon",
+    "Purple Orthros"
+  ],
+  "Crocodile Mask": [
+    "Ammit",
+    "Croc",
+    "Crocodile"
+  ],
+  "Silver Tri-Helm": [
+    "Ammit",
+    "Baby Elephant",
+    "Bald Eagle",
+    "Nekhbet"
+  ],
+  "Orange Dragon Skull": [
+    "Ammit",
+    "Bone Dragon",
+    "Goanna"
+  ],
+  "Pharaoh's Medallion": [
+    "Ammit",
+    "Anubis",
+    "Horus"
+  ],
+  "Pharaoh's Scarab": [
+    "Ammit",
+    "Anubis",
+    "Horus",
+    "Scorpion King"
+  ],
+  "Ankh Talismen": [
+    "Ammit",
+    "Camel"
+  ],
+  "Serpent's Tongue": [
+    "Anaconda",
+    "Drashig",
+    "Lava Worm",
+    "Python",
+    "Rainbow Serpent",
+    "Sea Serpent"
+  ],
+  "Ivory Shoulder Spikes": [
+    "Anaconda",
+    "Bull Elephant"
+  ],
+  "Glow Necklace": [
+    "Anaconda",
+    "Canis Lumen",
+    "Soul Eater",
+    "Soul Eater ",
+    "Stingray"
+  ],
+  "Mane of Poison": [
+    "Anaconda"
+  ],
+  "Dragon Scale Leg Warmer L": [
+    "Anaconda"
+  ],
+  "Dragon Scale Leg Warmer R": [
+    "Anaconda"
+  ],
+  "Top Hat": [
+    "Anaea Tyrianthina",
+    "Chimpanzee",
+    "Rat"
+  ],
+  "Amethyst Rose": [
+    "Anaea Tyrianthina",
+    "Drako Magus Flying",
+    "Pterodactyl"
+  ],
+  "Butterflies": [
+    "Anaea Tyrianthina",
+    "Ashrak",
+    "Purple Orthros"
+  ],
+  "Blind Eye L": [
+    "Angler",
+    "Dire Hawk",
+    "Feathered Mist",
+    "Nightmare",
+    "Okapi",
+    "Osprey",
+    "Demon Flying"
+  ],
+  "Blind Eye R": [
+    "Angler",
+    "Dire Hawk",
+    "Feathered Mist",
+    "Nightmare",
+    "Okapi",
+    "Osprey",
+    "Demon Flying"
+  ],
+  "Gold Shard": [
+    "Angler",
+    "Condor",
+    "Gold Orthros",
+    "Golden Angel Dragon",
+    "Boteng"
+  ],
+  "Candle": [
+    "Angler",
+    "Mr Grim",
+    "Lava Spiderling",
+    "Hecate"
+  ],
+  "Green Dragon Tie": [
+    "Ankylosaurus",
+    "Plains Dragon",
+    "Green Orthros"
+  ],
+  "Tail Fire Green": [
+    "Ankylosaurus",
+    "Canis Floreo"
+  ],
+  "Dino DNA": [
+    "Ankylosaurus",
+    "Coelophysis",
+    "Compsognathus",
+    "Deinonychus",
+    "Gallimimus",
+    "Microraptor",
+    "Plesiosaur",
+    "Pterodactyl",
+    "Spinobaby",
+    "Stegosaurus",
+    "T-Rex",
+    "Triceratops",
+    "Velociraptor",
+    "Allosaurus"
+  ],
+  "DJ Headphones Green": [
+    "Ankylosaurus",
+    "Cresil"
+  ],
+  "Doedec Tail": [
+    "Ankylosaurus"
+  ],
+  "Grad's Gold Helm": [
+    "Anubis",
+    "Dingo"
+  ],
+  "Guilded Mane": [
+    "Anubis"
+  ],
+  "Queen's Talisman R": [
+    "Anubis",
+    "Nekhbet",
+    "Sutekh"
+  ],
+  "Queen's Talisman L": [
+    "Anubis",
+    "Nekhbet",
+    "Sutekh"
+  ],
+  "Royal Tri-Helm": [
+    "Anubis",
+    "Arcane Dragon Flying",
+    "Oryx"
+  ],
+  "Blood Collar": [
+    "Arachnobot",
+    "Hell Cat",
+    "Snowdrop",
+    "Kzinti",
+    "Cerberus"
+  ],
+  "Flame Visor": [
+    "Arachnobot",
+    "Spikeshell"
+  ],
+  "Skyvoryx's Red Shard": [
+    "Arachnobot"
+  ],
+  "Broken Back Blades": [
+    "Arachnobot"
+  ],
+  "Bone Reaver": [
+    "Arachnobot",
+    "Marax Walking",
+    "Marax Flying ",
+    "Pretus Walking",
+    "Pretus Flying",
+    "Scorpion King",
+    "Thalassa",
+    "Xaphan Walking",
+    "Xaphan Flying"
+  ],
+  "Ruby's Dagger": [
+    "Arachnobot",
+    "Ashrak"
+  ],
+  "gas mask": [
+    "Arachnobot",
+    "Grendel",
+    "Zombie Dog",
+    "Zombie Dog ",
+    "Zombie Dog  ",
+    "Mutant Rat",
+    "Malificus Grandiflora  ",
+    "Insidior"
+  ],
+  "Purple Butt Spikes": [
+    "Arcane Dragon Walking",
+    "Nevermore"
+  ],
+  "Purple Dragon Skull": [
+    "Arcane Dragon Walking",
+    "Arcane Dragon Flying",
+    "Plains Dragon"
+  ],
+  "Magitech Claw R": [
+    "Arcane Dragon Walking"
+  ],
+  "Purple Argyle Scarf": [
+    "Arcane Dragon Walking",
+    "Elephant"
+  ],
+  "The Mage Hat": [
+    "Arcane Dragon Walking",
+    "Owl",
+    "Golden Angel Dragon",
+    "Blue Angel Dragon"
+  ],
+  "Magitech Claw L": [
+    "Arcane Dragon Walking"
+  ],
+  "Purple Head Spikes": [
+    "Arcane Dragon Flying"
+  ],
+  "Purple Shoulder Spikes": [
+    "Arcane Dragon Flying",
+    "Cloud Dragon Flying"
+  ],
+  "Visualizer's Claw R": [
+    "Arcane Dragon Flying"
+  ],
+  "Ephira's Dragon Plushie": [
+    "Arcane Dragon Flying",
+    "Treasure Chest"
+  ],
+  "Visualizer's Claw L": [
+    "Arcane Dragon Flying"
+  ],
+  "Red Christmas Hat": [
+    "Arctic Fox",
+    "Green Swallowtail",
+    "Penguin",
+    "Snowman",
+    "Zebra Longwing"
+  ],
+  "Green Christmas Hat": [
+    "Arctic Fox",
+    "Nautilus",
+    "Penguin",
+    "Snowman",
+    "Starfish"
+  ],
+  "I'm a Present": [
+    "Arctic Fox",
+    "Doe",
+    "Fawn",
+    "Husky",
+    "Red Manticore Walking",
+    "Red Manticore Flying",
+    "Starfish",
+    "Winter Hare",
+    "Mongoose"
+  ],
+  "Fire Hammer": [
+    "Arctic Fox",
+    "Chimera Flying",
+    "Great Wildebeest",
+    "Mongoose",
+    "Chimera Walking"
+  ],
+  "Blue Spiked Collar": [
+    "Arctic Fox",
+    "Dire Ray",
+    "Sammy",
+    "Djinn"
+  ],
+  "Green Rustic Sword": [
+    "Arctic Fox",
+    "Forest Dragon Walking",
+    "Plague Bird",
+    "Red Fox"
+  ],
+  "Skyburst": [
+    "Arctic Wolf",
+    "Hand of Fate"
+  ],
+  "White Wolf Toy": [
+    "Arctic Wolf",
+    "White Dire Wolf",
+    "White Timber Wolf",
+    "White Wolf"
+  ],
+  "Frozen Touch Right": [
+    "Arctic Wolf",
+    "Ethereal",
+    "Leopard Seal"
+  ],
+  "White Wolf Plushie": [
+    "Arctic Wolf",
+    "Chimpanzee",
+    "White Wolf"
+  ],
+  "White Winged Wolf": [
+    "Arctic Wolf",
+    "Palomino Centaur"
+  ],
+  "Frozen Touch Left": [
+    "Arctic Wolf",
+    "Ethereal",
+    "Leopard Seal"
+  ],
+  "Bowtie": [
+    "Arkytior",
+    "Cyberman",
+    "Scientist Dalek",
+    "Supreme Dalek"
+  ],
+  "Sonic Me Doctor": [
+    "Arkytior",
+    "Cyberman",
+    "Giga-Mantis"
+  ],
+  "Fez": [
+    "Arkytior",
+    "Strategist Dalek",
+    "Drone Dalek",
+    "Eternal Dalek"
+  ],
+  "Pineapple Lollipop": [
+    "Ashrak",
+    "Giraffe",
+    "Sand Lizard"
+  ],
+  "Feelers": [
+    "Ashrak",
+    "Giga-Mantis",
+    "Peacock Butterfly",
+    "Praying Mantis",
+    "Scarab Beetle",
+    "Tiger Swallowtail",
+    "Triffid"
+  ],
+  "Pentagram Necklace": [
+    "Azael",
+    "Cresil",
+    "Dire Ray",
+    "Lycurgus",
+    "Orca",
+    "Pythos"
+  ],
+  "Purple DJ Headphones": [
+    "Azael",
+    "Crystal Flying"
+  ],
+  "Space Shard": [
+    "Azael"
+  ],
+  "Crests of Poison": [
+    "Azael"
+  ],
+  "Obey's Dragon Plushie": [
+    "Azael"
+  ],
+  "Raven Wings": [
+    "Azael",
+    "Zombie Dog",
+    "Onmoraki",
+    "Witchy Ride",
+    "Ratri"
+  ],
+  "bbcap3,0.5": [
+    "Azure Walking"
+  ],
+  "Thunderbolt Blue": [
+    "Azure Walking",
+    "Terranus Walking"
+  ],
+  "Fire of Azure": [
+    "Azure Walking",
+    "Pharamond Walking",
+    "Pharamond Flying"
+  ],
+  "Thunderbolt Blue2": [
+    "Azure Walking",
+    "Terranus Flying"
+  ],
+  "Azure Amulet": [
+    "Azure Walking",
+    "AZURE Flying"
+  ],
+  "Azure Dragon Egg": [
+    "AZURE Flying"
+  ],
+  "Blue Dragon Helmet": [
+    "AZURE Flying"
+  ],
+  "Azure's Tidal Blade": [
+    "AZURE Flying"
+  ],
+  "Purple Eye Glow L": [
+    "Baby Elephant",
+    "Bald Eagle",
+    "Purple Manticore Flying"
+  ],
+  "Purple Eye Glow R": [
+    "Baby Elephant",
+    "Bald Eagle",
+    "Purple Manticore Flying"
+  ],
+  "Purple Lion Plushie": [
+    "Baby Elephant",
+    "Lioness",
+    "Plague Bird",
+    "Purple Manticore Walking",
+    "Purple Manticore Flying",
+    "Lynx"
+  ],
+  "Amarantha": [
+    "Baby Elephant",
+    "Night Dragon",
+    "Unicorn"
+  ],
+  "Ivory Butt Spikes": [
+    "Baby Elephant",
+    "Sentinel"
+  ],
+  "Trident": [
+    "Bake-kujira",
+    "Queen Marlies",
+    "Dolphin",
+    "Giant Manta Ray",
+    "Humpback Whale",
+    "Mermaid Myranda",
+    "Mermaid Ashli",
+    "Mermaid Chloe",
+    "Mermaid Oriana",
+    "Mermaid Auroa",
+    "Monster Ray",
+    "Orca",
+    "Stingray",
+    "Kraken"
+  ],
+  "Gone Fishin'": [
+    "Bake-kujira",
+    "Error 404",
+    "Humpback Whale",
+    "Mermaid Oriana",
+    "Royal Penguin"
+  ],
+  "Skyvoryx's White Shard": [
+    "Bake-kujira",
+    "Death Worm"
+  ],
+  "Kitsune Mask": [
+    "Bake-kujira",
+    "Treasure Chest"
+  ],
+  "Mirror": [
+    "Bake-kujira",
+    "Humpback Whale"
+  ],
+  "Steampunk Goggles": [
+    "Bald Eagle",
+    "Eagle",
+    "Feathered Mist",
+    "Owl",
+    "Robot"
+  ],
+  "White Feathers": [
+    "Bald Eagle",
+    "Lyrebird",
+    "Owl",
+    "Plague Bird",
+    "White Orthros"
+  ],
+  "Rogue Feathers": [
+    "Bald Eagle"
+  ],
+  "Deltora's Dragon Plushie": [
+    "Bald Eagle"
+  ],
+  "Eagle Mask": [
+    "Bald Eagle",
+    "Eagle",
+    "Gryphon Flying"
+  ],
+  "Obsidian Collar": [
+    "Bat",
+    "Overgrown Zebra",
+    "Timmy",
+    "Black Orthros"
+  ],
+  "earings3": [
+    "Bat"
+  ],
+  "Fangs": [
+    "Bat",
+    "Fennec Fox",
+    "Manta Ray",
+    "Snake"
+  ],
+  "Goin' Batty": [
+    "Bat"
+  ],
+  "Bat Plushie": [
+    "Bat",
+    "Vampire Bat"
+  ],
+  "Contagious": [
+    "Bat",
+    "Lab Rat",
+    "Vampire Bat"
+  ],
+  "Rave Bracelet L": [
+    "Bat",
+    "Canis Lumen",
+    "Soul Eater"
+  ],
+  "Rave Bracelet R": [
+    "Bat",
+    "Canis Lumen",
+    "Soul Eater"
+  ],
+  "Hot Pink Headphones": [
+    "Battery Low",
+    "Clownfish",
+    "The Watcher"
+  ],
+  "Purple Headphones": [
+    "Battery Low",
+    "Clownfish",
+    "The Seeker"
+  ],
+  "Yellow Headphones": [
+    "Battery Low",
+    "Clownfish",
+    "Malus Tuor"
+  ],
+  "Green Headphones": [
+    "Battery Low",
+    "Clownfish",
+    "Frog",
+    "Tainted Eye"
+  ],
+  "Red Headphones": [
+    "Battery Low",
+    "Cave Nasty",
+    "Clownfish",
+    "Demon Eye"
+  ],
+  "Blue Headphones": [
+    "Battery Low",
+    "Clownfish",
+    "Night Watcher"
+  ],
+  "Keyboard Tie": [
+    "Battery Low",
+    "Clownfish",
+    "Cyberman",
+    "Monarch Butterfly"
+  ],
+  "Crimson BigBell": [
+    "Big Red",
+    "Moonbeam"
+  ],
+  "Pyrotech Bracer L": [
+    "Big Red"
+  ],
+  "AK47": [
+    "Big Red",
+    "Drone Dalek",
+    "Triceratops"
+  ],
+  "Ruby Necklace": [
+    "Big Red",
+    "Feathered Mist",
+    "Magma Wyvern",
+    "Osprey",
+    "Peacock",
+    "Peahen",
+    "Ruby",
+    "Red Orthros"
+  ],
+  "Boomerang": [
+    "Big Red",
+    "Emu",
+    "Kangaroo",
+    "Koala",
+    "Wallaby"
+  ],
+  "Red Ram Horns": [
+    "Big Red"
+  ],
+  "Trailblazer": [
+    "Big Red",
+    "Error 404"
+  ],
+  "Present 1": [
+    "BIOS"
+  ],
+  "Red Dragon Wings": [
+    "BIOS",
+    "Earth Dragon Walking"
+  ],
+  "Happy Birthday": [
+    "BIOS",
+    "QWERTY",
+    "Byte",
+    "Birthday Cake",
+    "Birthday Cake",
+    "Birthday Cake"
+  ],
+  "RDcollar": [
+    "BIOS",
+    "Tyegar",
+    "QWERTY",
+    "Byte"
+  ],
+  "Kudu Horns": [
+    "Grendel",
+    "Nitorkkar"
+  ],
+  "Assassin's Dagger": [
+    "Grendel",
+    "Zombie Dog",
+    "Zombie Dog ",
+    "Zombie Dog  ",
+    "Chameleon",
+    "Mutant Rat",
+    "Parrot",
+    "Pi-Rat"
+  ],
+  "Only a flesh wound L": [
+    "Grendel",
+    "Zombie Dog",
+    "Zombie Dog ",
+    "Zombie Dog  ",
+    "Sasquatch",
+    "Soul Eater",
+    "Soul Eater ",
+    "Vampire Bat",
+    "Zombie",
+    "Zombie Boss"
+  ],
+  "Only a flesh wound R": [
+    "Grendel",
+    "Zombie Dog",
+    "Zombie Dog ",
+    "Zombie Dog  ",
+    "Sasquatch",
+    "Soul Eater",
+    "Soul Eater ",
+    "Vampire Bat",
+    "Zombie",
+    "Zombie Boss"
+  ],
+  "Gold Collar": [
+    "Grendel",
+    "Zombie Dog  ",
+    "Tyegar",
+    "Birthday Surprize"
+  ],
+  "Telly's Necklace": [
+    "Mr Grim",
+    "Giant Manta Ray",
+    "Great Wildebeest",
+    "Lycurgus",
+    "Mermaid Auroa",
+    "Sea Serpent",
+    "Demon Walking",
+    "Hecate"
+  ],
+  "Lantern": [
+    "Mr Grim",
+    "Spectre",
+    "Djinn",
+    "Hand of Fate",
+    "Hecate"
+  ],
+  "Ruby's Sickle": [
+    "Mr Grim",
+    "Elephant",
+    "Xaphan Walking",
+    "Xaphan Flying",
+    "Djinn",
+    "Hecate"
+  ],
+  "Golden Shackle": [
+    "Mr Grim",
+    "Zombie Dog ",
+    "Tyegar",
+    "Birthday Surprize",
+    "Hecate"
+  ],
+  "All Wrapped Up 1": [
+    "Christmas"
+  ],
+  "All Wrapped Up 2": [
+    "Christmas"
+  ],
+  "All Wrapped Up 3": [
+    "Christmas"
+  ],
+  "Lazy's Wolf Plushie": [
+    "Christmas",
+    "Queen Marlies",
+    "Lazyzim",
+    "Birthday Surprize"
+  ],
+  "Present 2": [
+    "Christmas",
+    "QWERTY"
+  ],
+  "Present 3": [
+    "Christmas",
+    "Byte"
+  ],
+  "Be My Valentine": [
+    "Christmas",
+    "The Easter Bunny"
+  ],
+  "Merry Christmas 1": [
+    "Christmas",
+    "Rudolph"
+  ],
+  "Got an arrow in my butt!": [
+    "Zombie Dog",
+    "Jackal",
+    "Ogre Error",
+    "Skyshroud",
+    "Brown Centauress",
+    "Black Centauress",
+    "Palomino Centauress",
+    "Grey Centauress"
+  ],
+  "Black Wolf Toy": [
+    "Black Dire Wolf",
+    "Black Timber Wolf",
+    "Black Wolf",
+    "Dire Fennec Fox"
+  ],
+  "Red Stars": [
+    "Black Dire Wolf",
+    "Power Ball"
+  ],
+  "Ryder's Guitar": [
+    "Black Dire Wolf"
+  ],
+  "Battleaxe": [
+    "Black Dire Wolf",
+    "Black Timber Wolf",
+    "Black Wolf",
+    "Supreme Dalek",
+    "Hell Cat",
+    "Hyena",
+    "Soldier Ant",
+    "Spectre",
+    "Cerberus"
+  ],
+  "Estonia Flag": [
+    "Black Dire Wolf"
+  ],
+  "Black Collar": [
+    "Black Dire Wolf",
+    "Black Timber Wolf",
+    "Black Wolf",
+    "Cookie",
+    "Gazelle"
+  ],
+  "Grey Collar": [
+    "Black Dire Wolf",
+    "Gray Dire Wolf",
+    "Black Timber Wolf",
+    "Gray Timber Wolf",
+    "Gray Wolf",
+    "Snowdrop"
+  ],
+  "Brown Wolf Toy": [
+    "Brown Dire Wolf",
+    "Brown Timber Wolf",
+    "Brown Wolf"
+  ],
+  "Green Stars": [
+    "Brown Dire Wolf",
+    "Power Ball"
+  ],
+  "Cutie Long Horns": [
+    "Brown Dire Wolf",
+    "Brown Timber Wolf"
+  ],
+  "Golden Kabuto": [
+    "Brown Dire Wolf",
+    "Brown Timber Wolf",
+    "Brown Wolf",
+    "Gryphon Flying"
+  ],
+  "Lazy's Guitar": [
+    "Brown Dire Wolf"
+  ],
+  "Uruguay Flag": [
+    "Brown Dire Wolf"
+  ],
+  "Purple Shades": [
+    "Brown Dire Wolf",
+    "Brown Timber Wolf",
+    "Brown Wolf",
+    "The Seeker",
+    "Malus Tuor"
+  ],
+  "Grey Wolf Toy": [
+    "Gray Dire Wolf",
+    "Gray Timber Wolf",
+    "Gray Wolf"
+  ],
+  "Blue Stars": [
+    "Gray Dire Wolf",
+    "Power Ball"
+  ],
+  "Catch My Balloons!": [
+    "Gray Dire Wolf",
+    "Chookasaurus MkII",
+    "Gray Timber Wolf",
+    "Hatchling ",
+    "Hatchling Purple"
+  ],
+  "Red Reaper": [
+    "Gray Dire Wolf",
+    "Fire Dragon Flying",
+    "Gray Timber Wolf",
+    "Gray Wolf",
+    "Haunted Tower",
+    "Jackal",
+    "Pterodactyl"
+  ],
+  "Serbian Flag": [
+    "Gray Dire Wolf"
+  ],
+  "Friendship Bracelet": [
+    "Gray Dire Wolf",
+    "Gray Timber Wolf",
+    "Gray Wolf",
+    "Kangaroo",
+    "Seahorse",
+    "Wallaby"
+  ],
+  "Gold Stars": [
+    "White Dire Wolf",
+    "Power Ball",
+    "Birthday Surprize"
+  ],
+  "Grad's Helmet": [
+    "White Dire Wolf",
+    "Dire Hawk",
+    "Owl",
+    "White Timber Wolf",
+    "White Wolf"
+  ],
+  "Okami Paw Right": [
+    "White Dire Wolf",
+    "White Timber Wolf",
+    "White Wolf"
+  ],
+  "Croatia Flag": [
+    "White Dire Wolf"
+  ],
+  "White Collar": [
+    "White Dire Wolf",
+    "Timmy",
+    "White Timber Wolf",
+    "White Wolf",
+    "White Orthros"
+  ],
+  "Okami Paw Left": [
+    "White Dire Wolf",
+    "White Timber Wolf",
+    "White Wolf"
+  ],
+  "Boston RED SOX": [
+    "Red Clan Leader"
+  ],
+  "Houston ASTROS": [
+    "Red Clan Leader"
+  ],
+  "New York YANKEES": [
+    "Red Clan Leader"
+  ],
+  "Nunchucks Red": [
+    "Red Clan Leader"
+  ],
+  "You Stink!": [
+    "Red Clan Leader",
+    "Blue Clan Leader",
+    "Dragonfly",
+    "Zombie Boss",
+    "Cave Ogre"
+  ],
+  "Los Angeles ANGELS": [
+    "Blue Clan Leader"
+  ],
+  "Toronto BLUE JAYS": [
+    "Blue Clan Leader"
+  ],
+  "Cleveland INDIANS": [
+    "Blue Clan Leader"
+  ],
+  "Nunchucks Blue": [
+    "Blue Clan Leader"
+  ],
+  "Texas RANGERS": [
+    "Green Clan Leader"
+  ],
+  "Oakland ATHLETICS": [
+    "Green Clan Leader"
+  ],
+  "Baltimore ORIOLES": [
+    "Green Clan Leader"
+  ],
+  "Nunchucks Black": [
+    "Green Clan Leader"
+  ],
+  "CHicago WHITE SOX": [
+    "Green Clan Leader"
+  ],
+  "Dagger": [
+    "Tyegar",
+    "Hawk",
+    "Skeleton"
+  ],
+  "Camo Backpack": [
+    "Tyegar",
+    "Kappa"
+  ],
+  "Thunderbolt 1 (white)": [
+    "Terranus Walking",
+    "Verity Walking"
+  ],
+  "Thunderbolt Red": [
+    "Terranus Walking",
+    "Pyrrhus Walking"
+  ],
+  "Thunderbolt Green": [
+    "Terranus Walking",
+    "Chloris Walking"
+  ],
+  "Thunderbolt Violet": [
+    "Terranus Walking",
+    "Ianthe Walking"
+  ],
+  "Thunderbolt Black": [
+    "Terranus Walking",
+    "Deimos Walking"
+  ],
+  "Thunderbolt Gold": [
+    "Terranus Walking",
+    "Dragon Walking"
+  ],
+  "Thunderbolt 2 (white)": [
+    "Terranus Flying",
+    "Verity Walking"
+  ],
+  "Thunderbolt Red2": [
+    "Terranus Flying",
+    "Pyrrhus Walking"
+  ],
+  "Thunderbolt Green2": [
+    "Terranus Flying",
+    "Chloris Walking"
+  ],
+  "Thunderbolt Violet2": [
+    "Terranus Flying",
+    "Ianthe Walking"
+  ],
+  "Thunderbolt Black2": [
+    "Terranus Flying",
+    "Deimos Walking"
+  ],
+  "Thunderbolt Gold2": [
+    "Terranus Flying",
+    "Dragon Walking"
+  ],
+  "PowerBall": [
+    "Power Ball"
+  ],
+  "Purple Stars": [
+    "Power Ball",
+    "Black Bear"
+  ],
+  "Pirate Sword": [
+    "Queen Marlies",
+    "Drakofae",
+    "Great White Shark",
+    "Plesiosaur",
+    "Raccoon",
+    "Sea Serpent",
+    "Stingray",
+    "Tempest",
+    "Pi-Rat",
+    "Blue Marlin",
+    "Squid"
+  ],
+  "pearl necklace": [
+    "Queen Marlies",
+    "Mermaid Myranda",
+    "Mermaid Ashli",
+    "Mermaid Chloe",
+    "Mermaid Oriana",
+    "Mermaid Auroa",
+    "Piggie",
+    "Raccoon",
+    "Seahorse"
+  ],
+  "Gold Pirate Hat": [
+    "Queen Marlies",
+    "Orak",
+    "Plesiosaur",
+    "Walrus"
+  ],
+  "Broken Heart": [
+    "Queen Marlies"
+  ],
+  "Red Satchel": [
+    "Black Centaur",
+    "Red Fox",
+    "Syntax Error"
+  ],
+  "Grad's War Helm": [
+    "Black Centaur",
+    "iHatch 2.0",
+    "Nightshade Dragon Flying",
+    "Redback Spider"
+  ],
+  "Red DJ Headphones": [
+    "Black Centaur",
+    "Irish Elk Doe"
+  ],
+  "Red Saddle": [
+    "Black Centaur",
+    "Canis Ignis",
+    "Vulcan"
+  ],
+  "Black Winged Wolf": [
+    "Black Centaur"
+  ],
+  "Grad's Emerald Helm": [
+    "Black Drake Flying",
+    "Bronze Drake Flying",
+    "Brown Centaur",
+    "Emerald",
+    "Medeina",
+    "Purple Nightstalker",
+    "Red Drake",
+    "Red Nightstalker",
+    "White Drake"
+  ],
+  "Red Crystal Hammer": [
+    "Black Drake Flying",
+    "Bronze Drake Flying",
+    "Drone Dalek",
+    "Green Nightstalker",
+    "Hatchling ",
+    "Red Drake",
+    "Red Nightstalker",
+    "White Drake",
+    "Hatchling Purple"
+  ],
+  "Belial's Horns": [
+    "Black Drake Flying"
+  ],
+  "Chromasistor Bracer R": [
+    "Black Drake Flying"
+  ],
+  "katana Blue": [
+    "Black Drake Flying",
+    "Bronze Drake Flying",
+    "Green Nightstalker",
+    "Purple Nightstalker",
+    "Red Nightstalker",
+    "White Drake",
+    "Blue Nightstalker"
+  ],
+  "katana Purple": [
+    "Black Drake Flying",
+    "Bronze Drake Flying",
+    "Green Nightstalker",
+    "Purple Nightstalker",
+    "Red Drake",
+    "Red Nightstalker"
+  ],
+  "Taurus Horns": [
+    "Black Drake Flying",
+    "Bronze Drake Flying",
+    "Dire Wildebeest",
+    "Purple Nightstalker",
+    "Red Drake",
+    "White Drake"
+  ],
+  "Dragon Medal": [
+    "Black Drake Flying",
+    "Bone Spider",
+    "Bronze Drake Flying",
+    "Croc",
+    "Green Nightstalker",
+    "Mutant Hare",
+    "Purple Nightstalker",
+    "Razorback",
+    "Red Drake",
+    "Red Nightstalker",
+    "Warthog",
+    "White Drake",
+    "Xiang Lung",
+    "Orthros"
+  ],
+  "White Satchel": [
+    "Black Bear",
+    "Canis Nox",
+    "Turkey"
+  ],
+  "Star Shard": [
+    "Black Bear",
+    "Cheetah",
+    "Lioness",
+    "Polar Bear",
+    "Razorback",
+    "Lynx"
+  ],
+  "Yellow Dragon Skull": [
+    "Black Bear",
+    "Microraptor",
+    "Polar Bear",
+    "Spinosaurus"
+  ],
+  "Sapphire Helm": [
+    "Black Bear",
+    "Black Timber Wolf",
+    "Polar Bear",
+    "Sea Serpent",
+    "Sea Turtle"
+  ],
+  "Black Present Belt": [
+    "Black Manticore Walking",
+    "Black Manticore Flying"
+  ],
+  "Black Lion Plushie": [
+    "Black Manticore Walking",
+    "Black Manticore Flying",
+    "Dire Zebra",
+    "Panther",
+    "Soldier Ant"
+  ],
+  "Left Paw Ebony": [
+    "Black Manticore Walking",
+    "Black Manticore Flying",
+    "Crab",
+    "German Shepherd",
+    "Sabertooth Tiger",
+    "Crabzilla"
+  ],
+  "Right Paw Ebony": [
+    "Black Manticore Walking",
+    "Black Manticore Flying",
+    "Crab",
+    "German Shepherd",
+    "Sabertooth Tiger",
+    "Crabzilla"
+  ],
+  "Lucifer's Horns Pink": [
+    "Black Manticore Walking",
+    "Black Manticore Flying",
+    "White Manticore Walking",
+    "White Manticore Flying"
+  ],
+  "Black Majik Eye L": [
+    "Black Manticore Walking",
+    "Frost Demon",
+    "Panther",
+    "Scorpion King",
+    "Spectre"
+  ],
+  "Black Majik Eye R": [
+    "Black Manticore Walking",
+    "Frost Demon",
+    "Panther",
+    "Scorpion King",
+    "Spectre"
+  ],
+  "Black Eye Glow L": [
+    "Black Manticore Flying",
+    "Black Stallion",
+    "Drashig",
+    "Python"
+  ],
+  "Black Eye Glow R": [
+    "Black Manticore Flying",
+    "Black Stallion",
+    "Drashig",
+    "Python"
+  ],
+  "Dismas Dragon Plushie": [
+    "Black Manticore Flying"
+  ],
+  "Cream Whiskers": [
+    "Black Mountain Goat",
+    "Brown Mountain Goat",
+    "White Mountain Goat"
+  ],
+  "Blue Cowboy Hat": [
+    "Black Mountain Goat",
+    "Brown Mountain Goat",
+    "Dire Zebra",
+    "Greater Giraffe",
+    "White Mountain Goat"
+  ],
+  "Blue Teddy": [
+    "Black Mountain Goat",
+    "Brown Mountain Goat",
+    "Sapphire",
+    "White Mountain Goat"
+  ],
+  "Black Whiskers": [
+    "Black Squirrel"
+  ],
+  "Black Cowboy Hat": [
+    "Black Squirrel",
+    "Obsidian"
+  ],
+  "Black Teddy": [
+    "Black Squirrel",
+    "Obsidian",
+    "Wallaby"
+  ],
+  "Black Hair ribbon": [
+    "Black Squirrel",
+    "Bunny"
+  ],
+  "Onyx Tri-Helm": [
+    "Black Stallion",
+    "Drashig",
+    "Great Hawk",
+    "Great Wildebeest"
+  ],
+  "Blue Saddle": [
+    "Black Stallion",
+    "Canis Agua",
+    "Palomino Centaur",
+    "Shadowgrazer"
+  ],
+  "Black Bridle": [
+    "Black Stallion"
+  ],
+  "Black Wolf Tie": [
+    "Black Timber Wolf",
+    "Black Wolf",
+    "Black Orthros"
+  ],
+  "Bone": [
+    "Black Timber Wolf",
+    "Black Wolf",
+    "Bone Beast",
+    "Bone Mouse",
+    "Bone Snake",
+    "Brown Timber Wolf",
+    "Brown Wolf",
+    "Dingo",
+    "German Shepherd",
+    "Gray Timber Wolf",
+    "Gray Wolf",
+    "Husky",
+    "Puppy",
+    "White Timber Wolf",
+    "Xiang Lung"
+  ],
+  "Black Wizard Hat": [
+    "Black Wolf"
+  ],
+  "Black Wolf Plushie": [
+    "Black Wolf",
+    "Dire Fennec Fox"
+  ],
+  "Rabbit Mask": [
+    "Blue Easter Bunny",
+    "Gold Easter Bunny",
+    "Green Easter Bunny",
+    "Hopping Spook",
+    "Mutant Hare",
+    "Purple Easter Bunny",
+    "Red Easter Bunny",
+    "The Easter Bunny"
+  ],
+  "Box O' Chocolate": [
+    "Blue Easter Bunny",
+    "Eggbert",
+    "Gold Easter Bunny",
+    "Green Easter Bunny",
+    "Purple Easter Bunny",
+    "Red Easter Bunny",
+    "The Easter Bunny"
+  ],
+  "Chocolate Freckle": [
+    "Blue Easter Bunny",
+    "Gold Easter Bunny",
+    "Green Easter Bunny",
+    "Purple Easter Bunny",
+    "Red Easter Bunny",
+    "The Easter Bunny"
+  ],
+  "Blue Bunny Toy": [
+    "Blue Easter Bunny"
+  ],
+  "Chunk O' Chocolate": [
+    "Blue Easter Bunny",
+    "Gold Easter Bunny",
+    "Green Easter Bunny",
+    "Purple Easter Bunny",
+    "Red Easter Bunny"
+  ],
+  "Blue Bunny Plushie": [
+    "Blue Easter Bunny"
+  ],
+  "Easter Basket": [
+    "Blue Easter Bunny",
+    "Eggbert",
+    "Gold Easter Bunny",
+    "Green Easter Bunny",
+    "Purple Easter Bunny",
+    "Red Easter Bunny",
+    "The Easter Bunny"
+  ],
+  "Chocolate Easter Egg": [
+    "Blue Easter Egg",
+    "Gold Easter Egg",
+    "Green Easter Egg",
+    "Purple Easter Egg",
+    "Red Easter Egg"
+  ],
+  "Cupcake": [
+    "Blue Easter Egg",
+    "Gold Easter Egg",
+    "Green Easter Egg",
+    "Purple Easter Egg",
+    "Red Easter Egg",
+    "Soldier Ant"
+  ],
+  "Party Hat 2": [
+    "Blue Easter Egg",
+    "Gold Easter Egg",
+    "Green Easter Egg",
+    "Purple Easter Egg",
+    "Red Easter Egg"
+  ],
+  "Party Hat 1": [
+    "Blue Easter Egg",
+    "Gold Easter Egg",
+    "Green Easter Egg",
+    "Purple Easter Egg",
+    "Red Easter Egg"
+  ],
+  "Party Hat 3": [
+    "Blue Easter Egg",
+    "Gold Easter Egg",
+    "Green Easter Egg",
+    "Purple Easter Egg",
+    "Red Easter Egg"
+  ],
+  "Blue Present Belt": [
+    "Blue Manticore Walking",
+    "Blue Manticore Flying",
+    "Frost Wyvern Flying"
+  ],
+  "Left Paw Blue": [
+    "Blue Manticore Walking",
+    "Blue Manticore Flying",
+    "Condor",
+    "Hippogryph",
+    "Monster Ray",
+    "Kraken"
+  ],
+  "Right Paw Blue": [
+    "Blue Manticore Walking",
+    "Blue Manticore Flying",
+    "Condor",
+    "Hippogryph",
+    "Monster Ray",
+    "Kraken"
+  ],
+  "Blue Majik Eye L": [
+    "Blue Manticore Walking",
+    "Demon Raven",
+    "Hydra",
+    "Vampire Bat",
+    "Zombie Wyvern"
+  ],
+  "Lucifer's Horns Blue": [
+    "Blue Manticore Walking",
+    "Blue Manticore Flying"
+  ],
+  "StarWolf7's Dragon Plushie": [
+    "Blue Manticore Walking"
+  ],
+  "Blue Majik Eye R": [
+    "Blue Manticore Walking",
+    "Demon Raven",
+    "Hydra",
+    "Vampire Bat",
+    "Zombie Wyvern"
+  ],
+  "Blue Lion Plushie": [
+    "Blue Manticore Flying",
+    "Chimpanzee",
+    "Jaguar",
+    "Rat"
+  ],
+  "Blue Eye Glow L": [
+    "Blue Manticore Flying",
+    "Nightmare",
+    "Winter Hare"
+  ],
+  "Blue Eye Glow R": [
+    "Blue Manticore Flying",
+    "Nightmare",
+    "Winter Hare"
+  ],
+  "Dog Tags": [
+    "Bone Beast",
+    "Bone Mouse",
+    "Bone Snake",
+    "Triffid",
+    "Malificus Grandiflora"
+  ],
+  "Ribs": [
+    "Bone Beast",
+    "Bone Mouse",
+    "Bone Snake",
+    "Gallimimus",
+    "Hyena",
+    "Skeleton",
+    "Zombie"
+  ],
+  "bull horns": [
+    "Bone Beast",
+    "Buffalo",
+    "Dire Wildebeest"
+  ],
+  "Steer Skull": [
+    "Bone Beast",
+    "Dire Wildebeest"
+  ],
+  "Left Paw Purple": [
+    "Bone Dragon",
+    "Kangaroo",
+    "Purple Manticore Walking",
+    "Purple Manticore Flying"
+  ],
+  "Right Paw Purple": [
+    "Bone Dragon",
+    "Kangaroo",
+    "Purple Manticore Walking",
+    "Purple Manticore Flying"
+  ],
+  "Red Majik Eye R": [
+    "Bone Dragon",
+    "Red Manticore Walking",
+    "Vulcan",
+    "Donkey",
+    "Donkey "
+  ],
+  "Bone Dragon Egg": [
+    "Bone Dragon"
+  ],
+  "Red Majik Eye L": [
+    "Bone Dragon",
+    "Red Manticore Walking",
+    "Vulcan",
+    "Donkey",
+    "Donkey "
+  ],
+  "Bone Dragon Wings": [
+    "Bone Dragon"
+  ],
+  "baby horns": [
+    "Bone Mouse",
+    "Chameleon",
+    "Dragonfly",
+    "Hatchling",
+    "Hatchling ",
+    "Jungle Lizard",
+    "Pig",
+    "Sand Lizard",
+    "Hatchling Blue",
+    "Hatchling Purple"
+  ],
+  "tribal necklace": [
+    "Bone Snake",
+    "Jungle Lizard",
+    "Necromancer",
+    "Plague Bird",
+    "Brown Centauress",
+    "Black Centauress",
+    "Palomino Centauress",
+    "Grey Centauress"
+  ],
+  "Stone Collar": [
+    "Bone Spider",
+    "Shadow",
+    "Spikeshell"
+  ],
+  "Fire Shard": [
+    "Bone Spider",
+    "Canis Ignis",
+    "Earth Dragon Walking",
+    "Magma Wyvern",
+    "Phoenix",
+    "Gold Orthros",
+    "Demon Flying"
+  ],
+  "Durus Helmet": [
+    "Bone Spider",
+    "Drakofae",
+    "Razorback",
+    "Sand Lizard",
+    "Storm",
+    "Warthog",
+    "Orthros"
+  ],
+  "I Play The Fool": [
+    "Bone Spider",
+    "Cave Spider",
+    "Soldier Ant",
+    "Turkey"
+  ],
+  "Draco Horns": [
+    "Bone Wyvern Flying",
+    "Chimera Flying",
+    "Drako Ignis Flying",
+    "Hatchling",
+    "Hatchling ",
+    "Redback Spider",
+    "Storm Wyvern",
+    "Chimera Walking",
+    "Hatchling Blue",
+    "Hatchling Purple",
+    "Zombie Dragon Walking",
+    "Zombie Dragon Flying"
+  ],
+  "Dragon Sword": [
+    "Bone Wyvern Flying",
+    "Earth Dragon Walking",
+    "Fire Dragon Walking",
+    "Robot Wyvern",
+    "Storm Wyvern",
+    "Zombie Dragon Walking",
+    "Zombie Dragon Flying"
+  ],
+  "Crests of the Blaze": [
+    "Bone Wyvern Flying"
+  ],
+  "Bubbles": [
+    "Bone Wyvern Flying",
+    "Canis Agua",
+    "Mermaid Myranda",
+    "Mermaid Ashli",
+    "Mermaid Chloe",
+    "Mermaid Oriana",
+    "Mermaid Auroa",
+    "Nautilus",
+    "Quilin",
+    "Seal"
+  ],
+  "Gorgon Fangs": [
+    "Bone Wyvern Flying",
+    "Cave Nasty",
+    "Desert Nasty",
+    "Frost Wyvern Flying",
+    "Ice Nasty",
+    "Jungle Nasty",
+    "Mammoth",
+    "Sabertooth Tiger",
+    "Walrus"
+  ],
+  "Green Shoulder Spikes": [
+    "Brontosaurus",
+    "Forest Dragon Walking"
+  ],
+  "Spiny Crest": [
+    "Brontosaurus",
+    "Triceratops",
+    "Velociraptor"
+  ],
+  "Blue Dragon Skull": [
+    "Brontosaurus",
+    "Water Dragon Walking",
+    "Water Dragon Flying"
+  ],
+  "Walther WA2000": [
+    "Brontosaurus",
+    "Great Bear"
+  ],
+  "Green Butt Spikes": [
+    "Brontosaurus",
+    "Forest Dragon Flying"
+  ],
+  "Jungle Collar": [
+    "Brontosaurus",
+    "Frog"
+  ],
+  "katana Black": [
+    "Bronze Drake Flying",
+    "Green Nightstalker",
+    "Purple Nightstalker",
+    "Red Drake",
+    "Red Nightstalker",
+    "White Drake",
+    "Black Nightstalker"
+  ],
+  "Viridian Horns": [
+    "Bronze Drake Flying",
+    "Hand of Fate"
+  ],
+  "Red Dragon Tie": [
+    "Brown Bear",
+    "Razorback",
+    "Warthog",
+    "Red Orthros"
+  ],
+  "Red Shard": [
+    "Brown Bear",
+    "Robot",
+    "Red Orthros",
+    "Demon Walking"
+  ],
+  "Brown Lion Plushie": [
+    "Brown Bear",
+    "Gold Manticore Walking",
+    "Gold Manticore Flying",
+    "Lion Cub",
+    "Sabertooth Tiger"
+  ],
+  "Red Knitted Scarf": [
+    "Brown Bear",
+    "Greater Giraffe",
+    "Plesiosaur"
+  ],
+  "Purple Princess Hat": [
+    "Brown Bear",
+    "Canis Arcana"
+  ],
+  "Orange Satchel": [
+    "Brown Bear",
+    "Canis Ignis",
+    "Greater Gazelle"
+  ],
+  "Levair's Satchel": [
+    "Brown Centaur",
+    "Viper"
+  ],
+  "Green DJ Headphones": [
+    "Brown Centaur",
+    "Emerald"
+  ],
+  "Green Saddle": [
+    "Brown Centaur",
+    "Brumby",
+    "Canis Floreo",
+    "Cave Beast",
+    "Medeina",
+    "Donkey",
+    "Donkey "
+  ],
+  "Brown Winged Wolf": [
+    "Brown Centaur"
+  ],
+  "Blue Ram Horns": [
+    "Brown Mountain Goat",
+    "White Mountain Goat"
+  ],
+  "WolfPaw Necklace": [
+    "Brown Timber Wolf",
+    "Brown Wolf"
+  ],
+  "Brown Fedora": [
+    "Brown Timber Wolf",
+    "Brown Wolf"
+  ],
+  "Brown Wolf Plushie": [
+    "Brown Wolf",
+    "Red Fox"
+  ],
+  "Black Bell": [
+    "Brumby",
+    "Donkey",
+    "Black Nightstalker",
+    "Donkey "
+  ],
+  "Brown Bridle": [
+    "Brumby"
+  ],
+  "Punky's Bridle": [
+    "Brumby"
+  ],
+  "Cyan Fury Bubble": [
+    "Brumby",
+    "Donkey",
+    "Donkey "
+  ],
+  "I Can Whistle": [
+    "Brumby",
+    "Great Hawk",
+    "Sand Dragon",
+    "Donkey",
+    "Donkey "
+  ],
+  "Shaman Mask": [
+    "Brumby",
+    "Donkey",
+    "Donkey "
+  ],
+  "Xaphan Horns": [
+    "Buck",
+    "Doe",
+    "Eagle",
+    "Mulga Snake",
+    "Nautilus",
+    "Panda"
+  ],
+  "Antlers": [
+    "Buck",
+    "Doe",
+    "Fawn",
+    "Great Stag"
+  ],
+  "War Horns": [
+    "Buck",
+    "DRAGON Flying",
+    "Great Stag",
+    "Imp"
+  ],
+  "Black Antlers": [
+    "Buck",
+    "Fawn"
+  ],
+  "Red Antlers": [
+    "Buck"
+  ],
+  "Blue Antlers": [
+    "Buck"
+  ],
+  "Green Antlers": [
+    "Buck"
+  ],
+  "Orange Antlers": [
+    "Buck"
+  ],
+  "White Antlers": [
+    "Buck"
+  ],
+  "Broken Horns": [
+    "Buck",
+    "Piggie",
+    "Scorpion"
+  ],
+  "Demon Horns": [
+    "Buffalo",
+    "Imp",
+    "Lava Spider",
+    "Lava Spiderling",
+    "Orthros"
+  ],
+  "Brown Satchel": [
+    "Buffalo",
+    "Great Bear",
+    "Hopping Spook",
+    "Night Dragon",
+    "Palomino",
+    "Skunk"
+  ],
+  "Black Stratocaster": [
+    "Buffalo",
+    "Camel",
+    "Lava Worm"
+  ],
+  "Red Long Horns": [
+    "Buffalo"
+  ],
+  "Strawberry Delight Lollipop": [
+    "Buffalo",
+    "Hippopotamus"
+  ],
+  "Pink Princess Hat": [
+    "Bull Elephant",
+    "Canis Ignis"
+  ],
+  "Party Balloons": [
+    "Bull Elephant",
+    "Dragonfly",
+    "Hatchling",
+    "Syntax Error",
+    "Hatchling Blue"
+  ],
+  "Spiked Collar": [
+    "Bull Elephant",
+    "Cookie",
+    "Cow",
+    "Elephant",
+    "Fennec Fox",
+    "Giant Manta Ray",
+    "Pug",
+    "Skunk",
+    "Soldier Ant",
+    "Spinobaby",
+    "Orthros"
+  ],
+  "Dragon Backpack": [
+    "Bull Elephant"
+  ],
+  "Red's Helmet": [
+    "Bull Elephant",
+    "Dire Wildebeest",
+    "Greater Gazelle",
+    "Shadowgrazer",
+    "Stormbringer"
+  ],
+  "Green Hair ribbon": [
+    "Bunny"
+  ],
+  "Gold Hair ribbon": [
+    "Bunny"
+  ],
+  "Brown Hair ribbon": [
+    "Bunny",
+    "Squirrel"
+  ],
+  "Blue Hair ribbon": [
+    "Bunny",
+    "Flamingo"
+  ],
+  "Pink Bunny Plushie": [
+    "Bunny"
+  ],
+  "Fuzzy Bunny": [
+    "Bunny",
+    "Cheetah",
+    "Winter Hare"
+  ],
+  "Brown Bunny Plushie": [
+    "Bunny"
+  ],
+  "Purple Bunny": [
+    "Bunny",
+    "Eggbert"
+  ],
+  "Ruby Helm": [
+    "Camel",
+    "Rattlesnake",
+    "Skyscraper"
+  ],
+  "Blue Head Spikes": [
+    "Camel",
+    "Hippopotamus"
+  ],
+  "Red Head Spikes": [
+    "Camel",
+    "Queen Ant"
+  ],
+  "Les Paul SunBurst": [
+    "Camel",
+    "Pterodactyl"
+  ],
+  "Blue Crystal Staff": [
+    "Canis Agua"
+  ],
+  "Blue Princess Hat": [
+    "Canis Agua",
+    "Walrus"
+  ],
+  "Blue Pirate Hat": [
+    "Canis Agua",
+    "Seal",
+    "Silverback",
+    "Pi-Rat"
+  ],
+  "Tail Fire Blue": [
+    "Canis Agua",
+    "Magma Wyvern",
+    "Night Dragon",
+    "Zombie Wyvern"
+  ],
+  "Violet Saddle": [
+    "Canis Arcana",
+    "Grey Centaur",
+    "Howler",
+    "Palomino"
+  ],
+  "Purple Crystal Staff": [
+    "Canis Arcana"
+  ],
+  "Spellbooks": [
+    "Canis Arcana",
+    "Nevermore",
+    "Panda"
+  ],
+  "Tail Fire Purple": [
+    "Canis Arcana",
+    "Drakofae",
+    "Microraptor",
+    "Pterodactyl",
+    "Stormbringer"
+  ],
+  "Magitech Bracer L": [
+    "Canis Arcana"
+  ],
+  "Green Crystal Staff": [
+    "Canis Floreo"
+  ],
+  "Green Princess Hat": [
+    "Canis Floreo",
+    "Frog"
+  ],
+  "Leprechaun Hat": [
+    "Canis Floreo",
+    "Chameleon",
+    "Osprey"
+  ],
+  "Leaves": [
+    "Canis Floreo",
+    "Jungle Nasty",
+    "Koala",
+    "Raccoon",
+    "Red Panda",
+    "Forest Wyvern"
+  ],
+  "Red Crystal Staff": [
+    "Canis Ignis"
+  ],
+  "Tail Fire Red": [
+    "Canis Ignis",
+    "Earth Dragon Walking",
+    "Magma Wyvern",
+    "Phoenix",
+    "Zombie Wyvern",
+    "Budgerigar",
+    "Theron Walking",
+    "Theron Flying"
+  ],
+  "Back Rave Bracelet L": [
+    "Canis Lumen",
+    "Emu",
+    "Soul Eater "
+  ],
+  "BlueSky's Dragon Plushie": [
+    "Canis Lumen"
+  ],
+  "Back Rave Bracelet R": [
+    "Canis Lumen",
+    "Emu",
+    "Soul Eater "
+  ],
+  "Meat Cleaver": [
+    "Canis Nox"
+  ],
+  "Red Pirate Hat": [
+    "Canis Nox",
+    "Sea Serpent"
+  ],
+  "Devils Horns": [
+    "Canis Nox",
+    "Giant Manta Ray",
+    "Hell Cat",
+    "Imp",
+    "HellHound",
+    "Cerberus"
+  ],
+  "Black Satchel": [
+    "Canis Nox"
+  ],
+  "Tail Fire Ebony": [
+    "Canis Nox",
+    "Compsognathus",
+    "Wallaby"
+  ],
+  "Dead Chickadee": [
+    "Cardinal"
+  ],
+  "Tail Feather": [
+    "Cardinal",
+    "Chicken",
+    "Crocodile",
+    "Dodo",
+    "Hawk",
+    "Peacock",
+    "Peahen"
+  ],
+  "Green Feathers": [
+    "Cardinal",
+    "Chicken",
+    "Dodo",
+    "Peacock",
+    "Peahen",
+    "Scarab Beetle",
+    "Turkey",
+    "Budgerigar"
+  ],
+  "Brown Feathers": [
+    "Cardinal",
+    "Chicken",
+    "Dire Hawk",
+    "Dodo",
+    "Peacock",
+    "Peahen",
+    "Turkey",
+    "Budgerigar"
+  ],
+  "Silver Dragon Band": [
+    "Cave Beast",
+    "Dragonfly",
+    "Manta Ray",
+    "Medeina"
+  ],
+  "Irish Bandana": [
+    "Cave Beast",
+    "Panda"
+  ],
+  "Purple Pirate Hat": [
+    "Cave Beast",
+    "Giant Manta Ray"
+  ],
+  "Lime Tutu": [
+    "Cave Beast",
+    "Manta Ray",
+    "Snowdrop"
+  ],
+  "Red GlowStick": [
+    "Cave Nasty",
+    "Coelophysis",
+    "Malificus Grandiflora ",
+    "Scorpid"
+  ],
+  "Fire Eye L": [
+    "Cave Nasty",
+    "Cave Spider",
+    "Lava Spider",
+    "Redback Spider",
+    "Scorpion"
+  ],
+  "Chain Collar": [
+    "Cave Nasty",
+    "Giant Manta Ray",
+    "Ice Bone Dragon",
+    "Jungle Lizard",
+    "Microraptor",
+    "Mongoose"
+  ],
+  "Fire Eye R": [
+    "Cave Nasty",
+    "Cave Spider",
+    "Lava Spider",
+    "Redback Spider",
+    "Scorpion"
+  ],
+  "Gold Dragon Band": [
+    "Cave Spider",
+    "Drashig",
+    "Sand Dragon",
+    "Vulcan",
+    "Xiang Lung"
+  ],
+  "Long Pink Checkered Scarf": [
+    "Cave Spider"
+  ],
+  "Pink Bunny": [
+    "Cave Spider"
+  ],
+  "Rainbow Head Spikes": [
+    "Cetus Flying",
+    "Great Bear",
+    "Spinosaurus"
+  ],
+  "Rainbow Shoulder Spikes": [
+    "Cetus Flying",
+    "Great Bear",
+    "Spinosaurus"
+  ],
+  "Rainbow Butt Spikes": [
+    "Cetus Flying",
+    "Hummingbird",
+    "Spinosaurus"
+  ],
+  "Rainbow Flag": [
+    "Cetus Flying",
+    "Chameleon"
+  ],
+  "Rainbow Bubble": [
+    "Cetus Flying",
+    "Humpback Whale Baby"
+  ],
+  "Rainbow Shard": [
+    "Cetus Flying",
+    "Fawn",
+    "Nekhbet",
+    "Sand Dragon"
+  ],
+  "Leprechaun Pipe": [
+    "Chameleon",
+    "Osprey",
+    "Turkey"
+  ],
+  "Rainbow Lollipop": [
+    "Chameleon",
+    "Cyberman",
+    "Dire Zebra",
+    "Triffid"
+  ],
+  "White Tiger Cub": [
+    "Cheetah"
+  ],
+  "Zebra Shank": [
+    "Cheetah",
+    "Dire Zebra",
+    "Zebra"
+  ],
+  "Metal Carved Ring": [
+    "Cheetah",
+    "Walrus"
+  ],
+  "Verity Backpack": [
+    "Cheetah"
+  ],
+  "Tail Fire Gold": [
+    "Cheetah",
+    "Dolphin"
+  ],
+  "Spiked Bracelet L": [
+    "Chicken",
+    "Dodo",
+    "Hopping Spook",
+    "Howler",
+    "Shadowgrazer",
+    "Soldier Ant",
+    "Demon Walking"
+  ],
+  "Spiked Bracelet R": [
+    "Chicken",
+    "Dodo",
+    "Hopping Spook",
+    "Howler",
+    "Shadowgrazer",
+    "Soldier Ant",
+    "Demon Walking"
+  ],
+  "Grad's Royal Helm": [
+    "Chimera Flying",
+    "Lion",
+    "Mutant Rat",
+    "Pegasus",
+    "Chimera Walking"
+  ],
+  "Red Assassin": [
+    "Chimera Flying",
+    "Redback Spider",
+    "Sand Lizard",
+    "Red Clan Grunt",
+    "Green Clan Grunt",
+    "Blue Clan Grunt",
+    "Chimera Walking",
+    "Goblin Sapper"
+  ],
+  "Dragon Reaver": [
+    "Chimera Flying",
+    "Dragon Walking",
+    "DRAGON Flying",
+    "Earthshaker",
+    "Robot Wyvern",
+    "Chimera Walking"
+  ],
+  "Glasses": [
+    "Chimpanzee",
+    "Demon Eye",
+    "Dire Fennec Fox",
+    "Fennec Fox",
+    "Hopping Spook",
+    "Night Watcher",
+    "Panda",
+    "Tainted Eye",
+    "The Seeker",
+    "The Watcher",
+    "Malus Tuor"
+  ],
+  "Space Helmet": [
+    "Chimpanzee",
+    "Viral Attack",
+    "Kzinti"
+  ],
+  "Red Fedora": [
+    "Chimpanzee",
+    "Sammy"
+  ],
+  "Team Chloris": [
+    "Chloris Walking"
+  ],
+  "Fire of Chloris": [
+    "Chloris Walking",
+    "Pharamond Walking",
+    "Pharamond Flying"
+  ],
+  "Chloris Amulet": [
+    "Chloris Walking",
+    "CHLORIS Flying"
+  ],
+  "Chloris Dragon Egg": [
+    "CHLORIS Flying"
+  ],
+  "Green Dragon Helmet": [
+    "CHLORIS Flying"
+  ],
+  "Chloris's Forest Blade": [
+    "CHLORIS Flying"
+  ],
+  "Type 95 Assault Rifle": [
+    "Chookasaurus MkII",
+    "Scientist Dalek",
+    "T-Rex",
+    "Allosaurus"
+  ],
+  "MK.II Bracer R": [
+    "Chookasaurus MkII"
+  ],
+  "Obey's Rose": [
+    "Chookasaurus MkII"
+  ],
+  "The Executioner": [
+    "Chookasaurus MkII",
+    "Death Worm",
+    "Hell Cat",
+    "Lycurgus",
+    "Zombie",
+    "Kzinti"
+  ],
+  "Antenna": [
+    "Chookasaurus MkII",
+    "Crab",
+    "Lab Rat",
+    "Robot"
+  ],
+  "Xyla's Dragon Plushie": [
+    "Cloud Dragon Walking"
+  ],
+  "White Dragon Skull": [
+    "Cloud Dragon Walking",
+    "Cloud Dragon Flying",
+    "Stormbringer"
+  ],
+  "Prismatic Claw R": [
+    "Cloud Dragon Walking"
+  ],
+  "Hunter's Bow": [
+    "Cloud Dragon Walking",
+    "Error 404",
+    "iHatch 2.0",
+    "Ogre Error",
+    "Brown Centauress",
+    "Black Centauress",
+    "Palomino Centauress",
+    "Grey Centauress"
+  ],
+  "Hunter's Quiver": [
+    "Cloud Dragon Walking",
+    "Error 404",
+    "iHatch 2.0",
+    "Ogre Error",
+    "Brown Centauress",
+    "Black Centauress",
+    "Palomino Centauress",
+    "Grey Centauress"
+  ],
+  "Prismatic Claw L": [
+    "Cloud Dragon Walking"
+  ],
+  "Mk.II Claw R": [
+    "Cloud Dragon Flying"
+  ],
+  "Bird Feather Leg Warmer L": [
+    "Cloud Dragon Flying"
+  ],
+  "Bird Feather Leg Warmer R": [
+    "Cloud Dragon Flying"
+  ],
+  "Mk.II Claw L": [
+    "Cloud Dragon Flying"
+  ],
+  "Forward Horns": [
+    "Coelophysis",
+    "Kangaroo"
+  ],
+  "Harlequin Rose": [
+    "Coelophysis"
+  ],
+  "Monocle": [
+    "Coelophysis",
+    "Crab",
+    "Demon Eye",
+    "Night Watcher",
+    "Tainted Eye",
+    "The Seeker",
+    "The Watcher",
+    "Malus Tuor"
+  ],
+  "White Fedora": [
+    "Coelophysis"
+  ],
+  "Right Paw Gold": [
+    "Coelophysis",
+    "Dingo",
+    "Gold Manticore Walking",
+    "Gold Manticore Flying"
+  ],
+  "Left Paw Gold": [
+    "Coelophysis",
+    "Dingo",
+    "Gold Manticore Walking",
+    "Gold Manticore Flying"
+  ],
+  "Blue Reaper": [
+    "Coelophysis",
+    "Haunted Tower",
+    "Sky Dragon",
+    "Water Dragon Flying"
+  ],
+  "Violet Tutu": [
+    "Compsognathus",
+    "Shadow",
+    "Timmy"
+  ],
+  "Orange Present Belt": [
+    "Compsognathus"
+  ],
+  "Orange Ram Horns": [
+    "Compsognathus",
+    "Kappa"
+  ],
+  "Orange Long Horns": [
+    "Compsognathus"
+  ],
+  "M16": [
+    "Compsognathus",
+    "Eternal Dalek",
+    "Gazelle",
+    "Kappa"
+  ],
+  "Muzzle": [
+    "Compsognathus",
+    "Hell Cat",
+    "Land Shark",
+    "Microraptor",
+    "Sabertooth Tiger",
+    "HellHound",
+    "Cerberus"
+  ],
+  "Soulblazer": [
+    "Computer Bug",
+    "iHatch 2.0"
+  ],
+  "Robot Fluff Leg Warmer L": [
+    "Computer Bug",
+    "Robot",
+    "Robot Wyvern"
+  ],
+  "Robot Fluff Leg Warmer R": [
+    "Computer Bug",
+    "Robot",
+    "Robot Wyvern"
+  ],
+  "Fantasy Wings": [
+    "Computer Bug",
+    "Cresil",
+    "Jackal"
+  ],
+  "Grad's Platinum Helm": [
+    "Condor",
+    "Cyberman",
+    "Diamond",
+    "Mummy",
+    "Tempest"
+  ],
+  "Knight's Helm": [
+    "Condor",
+    "Great Hawk",
+    "Great Wildebeest",
+    "Overgrown Zebra",
+    "Razorback",
+    "Warthog",
+    "Boteng"
+  ],
+  "Blue Tutu": [
+    "Cookie",
+    "Seal",
+    "Xavier"
+  ],
+  "White BigBell": [
+    "Cookie",
+    "Frost Demon"
+  ],
+  "Yellow BigBell": [
+    "Cookie"
+  ],
+  "Gold Tutu": [
+    "Cookie",
+    "Deinonychus",
+    "Giant Manta Ray",
+    "Zeva",
+    "Mongoose"
+  ],
+  "Fire Collar": [
+    "Cookie",
+    "Ruby"
+  ],
+  "Pink Collar": [
+    "Cookie",
+    "Greater Giraffe"
+  ],
+  "Shades": [
+    "Cow",
+    "Night Watcher",
+    "Pug",
+    "Spinobaby"
+  ],
+  "Cinema 3DShades": [
+    "Cow",
+    "Strategist Dalek",
+    "Scientist Dalek",
+    "Drone Dalek",
+    "Supreme Dalek",
+    "Eternal Dalek",
+    "Eagle",
+    "Wallaby",
+    "Cyber Hominidae"
+  ],
+  "Lover's Locket": [
+    "Cow",
+    "Deinonychus"
+  ],
+  "Smiley Tie": [
+    "Cow",
+    "Fennec Fox",
+    "Spinobaby",
+    "Gold Orthros"
+  ],
+  "Bat Earrings": [
+    "Crab",
+    "Hopping Spook",
+    "Howler",
+    "Shadowgrazer"
+  ],
+  "Ruby Rose": [
+    "Crab",
+    "Drako Ignis Flying",
+    "Kangaroo"
+  ],
+  "Swirling Star": [
+    "Cresil"
+  ],
+  "Mane of Felfire": [
+    "Cresil"
+  ],
+  "Green Dragon Plushie": [
+    "Cresil",
+    "Drako Floreo Flying",
+    "Xaphan Walking"
+  ],
+  "Emerald Tri-Helm": [
+    "Croc",
+    "Forest Dragon Flying",
+    "Medeina"
+  ],
+  "Emerald Crystal Shard": [
+    "Croc",
+    "Emerald",
+    "Plains Dragon",
+    "Green Orthros"
+  ],
+  "Green Head Spikes": [
+    "Croc",
+    "Drako Floreo Flying"
+  ],
+  "Swamp Collar": [
+    "Crocodile",
+    "Snowdrop"
+  ],
+  "Green Dragon Skull": [
+    "Crocodile",
+    "Forest Dragon Walking",
+    "Forest Dragon Flying",
+    "Forest Wyvern"
+  ],
+  "Blue Shard": [
+    "Crocodile",
+    "Great Bear",
+    "Polar Bear",
+    "Blue Orthros"
+  ],
+  "Purple Teddy": [
+    "Crystal Flying",
+    "Thalassa",
+    "Boteng"
+  ],
+  "Grad's Crystal Helm": [
+    "Crystal Flying",
+    "Drakofae",
+    "Grey Centaur",
+    "Storm"
+  ],
+  "Crystal Shard": [
+    "Crystal Flying",
+    "Great Bear",
+    "Mermaid Auroa",
+    "Stormbringer",
+    "White Orthros"
+  ],
+  "SA-80": [
+    "Cyberman",
+    "Stegosaurus"
+  ],
+  "AWM Sniper Rifle": [
+    "Strategist Dalek",
+    "Gallimimus",
+    "Mammoth",
+    "Queen Ant"
+  ],
+  "Infinity Pendant": [
+    "Strategist Dalek",
+    "Scientist Dalek",
+    "Drone Dalek",
+    "Supreme Dalek",
+    "Eternal Dalek"
+  ],
+  "Blue Crystal Hammer": [
+    "Strategist Dalek",
+    "Lyrebird",
+    "Skeleton",
+    "Blue Nightstalker"
+  ],
+  "Blue Light Saber": [
+    "Strategist Dalek",
+    "Death Worm",
+    "Drako Agua Flying"
+  ],
+  "Green Crystal Hammer": [
+    "Scientist Dalek",
+    "Giga-Mantis",
+    "Thalassa"
+  ],
+  "Green Light Saber": [
+    "Scientist Dalek",
+    "Drako Floreo Flying",
+    "Peacock"
+  ],
+  "Red Light Saber": [
+    "Drone Dalek",
+    "Drako Ignis Flying",
+    "Lava Worm"
+  ],
+  "UMP Sub-Machine Gun": [
+    "Supreme Dalek",
+    "Death Worm"
+  ],
+  "Orange Light Saber": [
+    "Supreme Dalek",
+    "Drako Libra Flying",
+    "Howler"
+  ],
+  "Golden Hammer": [
+    "Eternal Dalek",
+    "Horus",
+    "Rattlesnake"
+  ],
+  "Gold Light Saber": [
+    "Eternal Dalek",
+    "Drako Nox Flying",
+    "Hyena"
+  ],
+  "Purple Majik Eye L": [
+    "Death Worm",
+    "Purple Manticore Walking"
+  ],
+  "Purple Majik Eye R": [
+    "Death Worm",
+    "Purple Manticore Walking"
+  ],
+  "Blue Dragon Tie": [
+    "Death Worm",
+    "Ice Bone Dragon",
+    "Blue Orthros"
+  ],
+  "Silver Kabuto": [
+    "Death Worm",
+    "Hippogryph",
+    "Tempest"
+  ],
+  "Yellow Butt Spikes": [
+    "Deathstalker",
+    "Overgrown Gazelle"
+  ],
+  "Topaz Horns": [
+    "Deathstalker",
+    "Marax Flying ",
+    "White Manticore Flying"
+  ],
+  "Blood Stripe Leg Warmer L": [
+    "Deathstalker",
+    "Zombie"
+  ],
+  "Blood Stripe Leg Warmer R": [
+    "Deathstalker",
+    "Zombie"
+  ],
+  "Scorpion's Tail": [
+    "Deathstalker",
+    "Scorpion King"
+  ],
+  "Firefly Shard": [
+    "Deathstalker",
+    "Meganeura",
+    "Microraptor",
+    "Skyshroud"
+  ],
+  "Team Deimos": [
+    "Deimos Walking"
+  ],
+  "Fire of Deimos": [
+    "Deimos Walking",
+    "Pharamond Walking",
+    "Pharamond Flying"
+  ],
+  "Deimos Amulet": [
+    "Deimos Walking",
+    "DEIMOS Flying"
+  ],
+  "Deimos's Shadow Blade": [
+    "DEIMOS Flying"
+  ],
+  "Deimos Dragon Egg": [
+    "DEIMOS Flying"
+  ],
+  "Black Dragon Helmet": [
+    "DEIMOS Flying"
+  ],
+  "Green Majik Eye R": [
+    "Deinonychus",
+    "Green Manticore",
+    "Hippogryph",
+    "Medeina"
+  ],
+  "Green Majik Eye L": [
+    "Deinonychus",
+    "Green Manticore",
+    "Hippogryph",
+    "Medeina"
+  ],
+  "Sapphire Rose": [
+    "Deinonychus",
+    "Drako Agua Flying",
+    "Seahorse"
+  ],
+  "Diamond Rose": [
+    "Deinonychus"
+  ],
+  "Green GlowStick": [
+    "Deinonychus",
+    "Haunted Tower",
+    "Jungle Nasty"
+  ],
+  "Red Shades": [
+    "Demon Eye",
+    "Orca"
+  ],
+  "Red Circus Bridle": [
+    "Demon Eye"
+  ],
+  "Shadow Collar": [
+    "Demon Raven",
+    "Dire Fennec Fox",
+    "Sassy"
+  ],
+  "Mane of the Abyss": [
+    "Demon Raven",
+    "Monster Ray"
+  ],
+  "Raven Feathers": [
+    "Demon Raven",
+    "Nevermore",
+    "Raven"
+  ],
+  "Witch Hat": [
+    "Demon Raven",
+    "Hopping Spook",
+    "Sasquatch",
+    "Vulcan"
+  ],
+  "Yellow GlowStick": [
+    "Desert Nasty",
+    "Gallimimus",
+    "Sabertooth Lion"
+  ],
+  "Crazy Eye L": [
+    "Desert Nasty",
+    "Puppy",
+    "Skyscraper"
+  ],
+  "Cowboy Vest": [
+    "Desert Nasty"
+  ],
+  "Shackle": [
+    "Desert Nasty",
+    "Gallimimus",
+    "Ice Bone Dragon",
+    "Sand Lizard",
+    "Terokkar"
+  ],
+  "Crazy Eye R": [
+    "Desert Nasty",
+    "Puppy",
+    "Skyscraper"
+  ],
+  "Nose Ring": [
+    "Diamond",
+    "Emerald",
+    "Feathered Mist",
+    "Manta Ray",
+    "Zebra Longwing"
+  ],
+  "Diamond Horns": [
+    "Diamond"
+  ],
+  "Pink DJ Headphones": [
+    "Diamond",
+    "Hatchling ",
+    "Hatchling Purple"
+  ],
+  "Rainbow Crystal Shard": [
+    "Diamond",
+    "Mermaid Myranda",
+    "Parrot",
+    "Rainbow Serpent"
+  ],
+  "Yellow Collar": [
+    "Dingo",
+    "Moonbeam",
+    "Overgrown Gazelle"
+  ],
+  "Orange Collar": [
+    "Dingo",
+    "Sassy"
+  ],
+  "Red Spiked Collar": [
+    "Dingo",
+    "Lava Spiderling",
+    "Okapi",
+    "Timmy"
+  ],
+  "Purple Wolf Tie": [
+    "Dingo",
+    "Purple Orthros"
+  ],
+  "Fire Sickle": [
+    "Dire Fennec Fox",
+    "Dire Wildebeest",
+    "Fire Dragon Walking",
+    "Lava Spiderling",
+    "Marax Walking",
+    "Marax Flying "
+  ],
+  "Orange Rustic Sword": [
+    "Dire Fennec Fox",
+    "Necromancer"
+  ],
+  "Gold Carved Ring": [
+    "Dire Fennec Fox",
+    "Owl"
+  ],
+  "France Flag": [
+    "Dire Hare"
+  ],
+  "Greece Flag": [
+    "Dire Hare"
+  ],
+  "Iceland Flag": [
+    "Dire Hare"
+  ],
+  "Ireland Flag": [
+    "Dire Hare"
+  ],
+  "Israel Flag": [
+    "Dire Hare"
+  ],
+  "Italy Flag": [
+    "Dire Hare"
+  ],
+  "Jamaica Flag": [
+    "Dire Hare"
+  ],
+  "Hawk's Dragon Plushie": [
+    "Dire Hawk",
+    "Treasure Chest"
+  ],
+  "Black Domino Mask": [
+    "Dire Hawk"
+  ],
+  "Black Fedora1": [
+    "Dire Hawk"
+  ],
+  "Long Crane Scarf": [
+    "Dire Hawk",
+    "Owl"
+  ],
+  "Claws L": [
+    "Dire Ray",
+    "Elephant",
+    "Hummingbird",
+    "Overgrown Gazelle"
+  ],
+  "Claws R": [
+    "Dire Ray",
+    "Elephant",
+    "Hummingbird",
+    "Overgrown Gazelle"
+  ],
+  "Blue Claws L": [
+    "Dire Ray",
+    "Xavier"
+  ],
+  "Blue Claws R": [
+    "Dire Ray",
+    "Xavier"
+  ],
+  "Rainbow Bracelet L": [
+    "Dire Ray",
+    "Hummingbird",
+    "Okapi",
+    "Praying Mantis",
+    "Pug",
+    "Rainbow Serpent",
+    "Seahorse",
+    "Snake"
+  ],
+  "Rainbow Bracelet R": [
+    "Dire Ray",
+    "Hummingbird",
+    "Okapi",
+    "Praying Mantis",
+    "Pug",
+    "Rainbow Serpent",
+    "Seahorse",
+    "Snake"
+  ],
+  "Metal Dragon Band": [
+    "Dire Ray",
+    "Robot"
+  ],
+  "Red's Horns": [
+    "Dire Wildebeest",
+    "Lava Spider",
+    "Stormbringer",
+    "Boteng"
+  ],
+  "Pink Claws L": [
+    "Dire Zebra",
+    "Timmy"
+  ],
+  "Pink Claws R": [
+    "Dire Zebra",
+    "Timmy"
+  ],
+  "Pink Spiked Collar": [
+    "Dire Zebra",
+    "Robot",
+    "Sassy"
+  ],
+  "Rainbow Tie": [
+    "Dire Zebra",
+    "Skunk",
+    "Boteng"
+  ],
+  "Cord's Dragon Plushie": [
+    "Dodo"
+  ],
+  "Ram Horns": [
+    "Doe",
+    "Eagle",
+    "Raven"
+  ],
+  "Yellow Antlers": [
+    "Doe"
+  ],
+  "Purple Antlers": [
+    "Doe"
+  ],
+  "Pink Antlers": [
+    "Doe"
+  ],
+  "Crimson Ram Horns": [
+    "Dolphin"
+  ],
+  "Lime Present Belt": [
+    "Dolphin"
+  ],
+  "Gold Majik Eye L": [
+    "Dolphin",
+    "Gold Manticore Walking",
+    "Tiger"
+  ],
+  "Onyx Crystal Shard": [
+    "Dolphin",
+    "Midnight",
+    "Obsidian",
+    "Terokkar",
+    "Black Orthros"
+  ],
+  "The Riddler's Dragon Plushie": [
+    "Dolphin"
+  ],
+  "Gold Majik Eye R": [
+    "Dolphin",
+    "Gold Manticore Walking",
+    "Tiger"
+  ],
+  "Cutlass": [
+    "Dolphin",
+    "Humpback Whale",
+    "Mermaid Chloe"
+  ],
+  "Team Dragon": [
+    "Dragon Walking"
+  ],
+  "Fire of Dragon": [
+    "Dragon Walking",
+    "Pharamond Walking",
+    "Pharamond Flying"
+  ],
+  "Dragon Amulet": [
+    "Dragon Walking",
+    "DRAGON Flying"
+  ],
+  "Dragon's Hero Blade": [
+    "DRAGON Flying"
+  ],
+  "Brown Dragon Helmet": [
+    "DRAGON Flying"
+  ],
+  "Green Knitted Scarf": [
+    "Dragonfly",
+    "Okapi"
+  ],
+  "Lime Fizz Lollipop": [
+    "Dragonfly",
+    "Jungle Lizard",
+    "Insidior"
+  ],
+  "Green Cowboy Hat": [
+    "Drakofae",
+    "Praying Mantis"
+  ],
+  "Pink Teddy": [
+    "Drakofae",
+    "Hyena",
+    "Pig"
+  ],
+  "Niseran's Dragon Plushie": [
+    "Drako Agua Flying"
+  ],
+  "Blue Dragon Plushie": [
+    "Drako Agua Flying",
+    "Pretus Walking"
+  ],
+  "Blue Dragon Mask": [
+    "Drako Agua Flying",
+    "Blue Angel Dragon"
+  ],
+  "Gold Dragon Mask": [
+    "Drako Floreo Flying",
+    "Golden Angel Dragon"
+  ],
+  "Emerald Rose": [
+    "Drako Floreo Flying",
+    "Stegosaurus"
+  ],
+  "Red Dragon Plushie": [
+    "Drako Ignis Flying",
+    "Marax Walking",
+    "Marax Flying "
+  ],
+  "Red Dragon Mask": [
+    "Drako Ignis Flying"
+  ],
+  "Grey Dragon Plushie": [
+    "Drako Libra Flying",
+    "Keeper",
+    "Xaphan Flying"
+  ],
+  "Ze Dragon Plushie": [
+    "Drako Libra Flying"
+  ],
+  "White Dragon Mask": [
+    "Drako Libra Flying"
+  ],
+  "Sterling Rose": [
+    "Drako Libra Flying",
+    "Gray Timber Wolf",
+    "Gray Wolf"
+  ],
+  "Nightmare's Dragon Plushie": [
+    "Drako Magus Flying"
+  ],
+  "Purple Light Saber": [
+    "Drako Magus Flying",
+    "Skunk"
+  ],
+  "Purple Dragon Mask": [
+    "Drako Magus Flying"
+  ],
+  "Punk's Dragon Plushie": [
+    "Drako Nox Flying"
+  ],
+  "Lily's Dragon Plushie": [
+    "Drako Nox Flying"
+  ],
+  "Black Dragon Mask": [
+    "Drako Nox Flying"
+  ],
+  "Lazy's Rose": [
+    "Drako Nox Flying",
+    "Imp"
+  ],
+  "Black Head Spikes": [
+    "Drashig",
+    "Nightshade Dragon Walking",
+    "Black Nightstalker"
+  ],
+  "Random Skills": [
+    "Draw Point"
+  ],
+  "Just a Note": [
+    "Duckling",
+    "Kitten",
+    "Panda",
+    "Red Panda",
+    "Starfish"
+  ],
+  "Reindeer Antlers": [
+    "Duckling",
+    "Fawn",
+    "Kitten"
+  ],
+  "Horns": [
+    "Duckling",
+    "Kitten",
+    "Red Panda",
+    "Seagull",
+    "Mongoose"
+  ],
+  "Sapphire Necklace": [
+    "Duckling",
+    "Hedgehog",
+    "Hummingbird",
+    "Kitten",
+    "Sapphire",
+    "Blue Orthros",
+    "Blue Angel Dragon"
+  ],
+  "Dead Mallard": [
+    "Duckling",
+    "Platypus",
+    "Red Fox"
+  ],
+  "Gold Bangle": [
+    "Earth Dragon Walking",
+    "Giant Manta Ray",
+    "Parrot",
+    "Sabertooth Lion"
+  ],
+  "Earth Dragon Egg": [
+    "Earth Dragon Walking"
+  ],
+  "Red Dragon Skull": [
+    "Earth Dragon Walking",
+    "Fire Dragon Walking",
+    "Fire Dragon Flying"
+  ],
+  "Dragontooth Necklace": [
+    "Earth Dragon Walking",
+    "Hammerhead Shark",
+    "Sea Turtle",
+    "Seagull",
+    "Spikeshell"
+  ],
+  "Royal Crown": [
+    "Earthshaker",
+    "Lion",
+    "Mermaid Ashli",
+    "Queen Ant"
+  ],
+  "Yin Yang Medal": [
+    "Earthshaker",
+    "Hydra",
+    "Mermaid Ashli"
+  ],
+  "Rose Petals": [
+    "Earthshaker",
+    "Hippogryph",
+    "Necromancer",
+    "Onmoraki"
+  ],
+  "Daxej's Dragon Plushie": [
+    "Earthshaker",
+    "Seal"
+  ],
+  "Felblazer": [
+    "Earthshaker",
+    "Ogre Error",
+    "Viral Attack"
+  ],
+  "Yellow Princess Hat": [
+    "Eggbert",
+    "Great Hawk",
+    "Palomino"
+  ],
+  "Long Violet Lace Scarf": [
+    "Eggbert"
+  ],
+  "Lazy's Bandana": [
+    "Emu",
+    "Goanna",
+    "Platypus"
+  ],
+  "Australia Flag": [
+    "Emu"
+  ],
+  "BlueBird Wings": [
+    "Error 404",
+    "Pythos",
+    "Blue Angel Dragon"
+  ],
+  "Bubblegum Lollipop": [
+    "Elephant",
+    "Raccoon"
+  ],
+  "Ivory Head Spikes": [
+    "Elephant",
+    "Orak"
+  ],
+  "Spine 1": [
+    "Elephant",
+    "Howler",
+    "Land Shark",
+    "Nightmare",
+    "Shadowgrazer",
+    "Demon Walking"
+  ],
+  "Spine 2": [
+    "Elephant",
+    "Howler",
+    "Land Shark",
+    "Nightmare",
+    "Shadowgrazer",
+    "Demon Walking"
+  ],
+  "Emerald Horns": [
+    "Emerald",
+    "Xaphan Walking"
+  ],
+  "Green Teddy": [
+    "Emerald",
+    "Lava Spider",
+    "Lyrebird"
+  ],
+  "Water Stone Helmet": [
+    "Ethereal",
+    "Frost Wyvern Flying",
+    "Water Dragon Flying"
+  ],
+  "Rainbow UniHorn": [
+    "Ethereal"
+  ],
+  "Visualizer's Bracer L": [
+    "Ethereal"
+  ],
+  "Trott's Dragon Plushie": [
+    "Ethereal"
+  ],
+  "Evil Doll": [
+    "Evil Doll"
+  ],
+  "Purple Ram Horns": [
+    "Fawn"
+  ],
+  "cookie!": [
+    "Fawn"
+  ],
+  "Obey's Bandana": [
+    "Feathered Mist",
+    "Gorilla",
+    "Silverback"
+  ],
+  "Red Eye Glow L": [
+    "Feathered Mist",
+    "Nightmare",
+    "Red Manticore Flying",
+    "Skyshroud",
+    "Viper",
+    "Demon Flying"
+  ],
+  "Red Eye Glow R": [
+    "Feathered Mist",
+    "Nightmare",
+    "Red Manticore Flying",
+    "Skyshroud",
+    "Viper",
+    "Demon Flying"
+  ],
+  "Pink Eye Glow L": [
+    "Feathered Mist",
+    "Hippopotamus",
+    "Meganeura",
+    "Demon Flying"
+  ],
+  "Pink Eye Glow R": [
+    "Feathered Mist",
+    "Hippopotamus",
+    "Meganeura",
+    "Demon Flying"
+  ],
+  "Green Lion Plushie": [
+    "Fennec Fox",
+    "Forest Dragon Walking",
+    "Green Manticore",
+    "Green Manticore Flying",
+    "Tiger"
+  ],
+  "Cherry Lollipop": [
+    "Fennec Fox"
+  ],
+  "horn2red": [
+    "Fire Dragon Walking"
+  ],
+  "Pyrotech Claw R": [
+    "Fire Dragon Walking"
+  ],
+  "Pyrotech Claw L": [
+    "Fire Dragon Walking"
+  ],
+  "Red Butt Spikes": [
+    "Fire Dragon Flying",
+    "Nevermore"
+  ],
+  "Broken Claw R": [
+    "Fire Dragon Flying"
+  ],
+  "Gold Tri-Helm": [
+    "Fire Dragon Flying",
+    "Monster Ray",
+    "Queen Ant"
+  ],
+  "Broken Claw L": [
+    "Fire Dragon Flying"
+  ],
+  "Pink Hair ribbon": [
+    "Flamingo",
+    "Hedgehog"
+  ],
+  "Orange Hair ribbon": [
+    "Flamingo",
+    "Hedgehog"
+  ],
+  "Lime Hair ribbon": [
+    "Flamingo",
+    "Hedgehog"
+  ],
+  "Flamingo Feathers": [
+    "Flamingo"
+  ],
+  "Hot Pink Hair ribbon": [
+    "Flamingo"
+  ],
+  "Sakura Petals": [
+    "Forest Dragon Flying",
+    "Gryphon Flying",
+    "Red Panda"
+  ],
+  "Heart Necklace": [
+    "Frog",
+    "Manta Ray",
+    "Osprey",
+    "Seagull"
+  ],
+  "Green Eye Glow L": [
+    "Frog",
+    "Green Manticore Flying",
+    "Oryx",
+    "Viper"
+  ],
+  "Green Eye Glow R": [
+    "Frog",
+    "Green Manticore Flying",
+    "Oryx",
+    "Viper"
+  ],
+  "White Shades": [
+    "Frost Demon"
+  ],
+  "Glowing Heart": [
+    "Frost Demon",
+    "Spectre",
+    "Walrus"
+  ],
+  "Blue GlowStick": [
+    "Frost Demon",
+    "Ice Nasty",
+    "Spectre"
+  ],
+  "White Present Belt": [
+    "Frost Demon",
+    "Spectre",
+    "White Manticore Walking",
+    "White Manticore Flying"
+  ],
+  "Merry Christmas 2": [
+    "Frost Demon"
+  ],
+  "Cloudy Mane": [
+    "Frost Wyvern Flying"
+  ],
+  "White Majik Eye L": [
+    "Frost Wyvern Flying",
+    "Mutant Hare",
+    "White Manticore Walking"
+  ],
+  "White Majik Eye R": [
+    "Frost Wyvern Flying",
+    "Mutant Hare",
+    "White Manticore Walking"
+  ],
+  "Right Paw Ivory": [
+    "Frost Wyvern Flying",
+    "White Manticore Walking"
+  ],
+  "Left Paw Ivory": [
+    "Frost Wyvern Flying",
+    "White Manticore Walking"
+  ],
+  "Black Tutu": [
+    "Gallimimus",
+    "Moonbeam"
+  ],
+  "Curved Back Horns": [
+    "Gazelle",
+    "Hell Cat",
+    "HellHound",
+    "Kzinti"
+  ],
+  "Purple Long Horns": [
+    "Gazelle"
+  ],
+  "Grey Long Horns": [
+    "Gazelle"
+  ],
+  "spiked horns": [
+    "Gazelle",
+    "Greater Gazelle"
+  ],
+  "Coca-Cola Lollipop": [
+    "Gazelle"
+  ],
+  "Crimson Shades": [
+    "Gazelle",
+    "Imp"
+  ],
+  "Brown Long Horns": [
+    "German Shepherd"
+  ],
+  "Brown Shades": [
+    "German Shepherd",
+    "The Watcher"
+  ],
+  "Brown Ram Horns": [
+    "German Shepherd"
+  ],
+  "Black Long Horns": [
+    "German Shepherd",
+    "Oryx"
+  ],
+  "Checkered Bracelet": [
+    "Giant Manta Ray",
+    "Hawk",
+    "Seagull",
+    "Skunk"
+  ],
+  "Midas Rose": [
+    "Giant Manta Ray",
+    "Tiger"
+  ],
+  "Bell Collar": [
+    "Giant Manta Ray"
+  ],
+  "Forget Me Not": [
+    "Giant Manta Ray",
+    "Nevermore",
+    "Seal"
+  ],
+  "Grad's Ruby Helm": [
+    "Giga-Mantis",
+    "Mummy",
+    "Ruby"
+  ],
+  "Skyvoryx's Green Shard": [
+    "Giga-Mantis"
+  ],
+  "Autumn Rain Leg Warmer L": [
+    "Giraffe",
+    "Goanna"
+  ],
+  "Red Claws L": [
+    "Giraffe",
+    "Sassy"
+  ],
+  "Red Claws R": [
+    "Giraffe",
+    "Sassy"
+  ],
+  "Orange Cowboy Hat": [
+    "Giraffe"
+  ],
+  "Red Collar": [
+    "Giraffe",
+    "Xavier"
+  ],
+  "Yellow Satchel": [
+    "Giraffe",
+    "Platypus"
+  ],
+  "Green Bell": [
+    "Glasswing Butterfly"
+  ],
+  "Purple Present Belt": [
+    "Glasswing Butterfly",
+    "Purple Manticore Walking",
+    "Purple Manticore Flying"
+  ],
+  "Teal Ram Horns": [
+    "Glasswing Butterfly"
+  ],
+  "Autumn Rain Leg Warmer R": [
+    "Goanna",
+    "Greater Giraffe"
+  ],
+  "Boomarang": [
+    "Goanna"
+  ],
+  "Yellow Bunny Toy": [
+    "Gold Easter Bunny"
+  ],
+  "Yellow Bunny Plushie": [
+    "Gold Easter Bunny"
+  ],
+  "Yellow Present Belt": [
+    "Gold Manticore Walking",
+    "Gold Manticore Flying",
+    "Kangaroo"
+  ],
+  "Lucifer's Horns Yellow": [
+    "Gold Manticore Walking",
+    "Gold Manticore Flying"
+  ],
+  "Gold Eye Glow L": [
+    "Gold Manticore Flying",
+    "Nightmare",
+    "Viper"
+  ],
+  "Gold Eye Glow R": [
+    "Gold Manticore Flying",
+    "Nightmare",
+    "Viper"
+  ],
+  "Red Monkey Toy": [
+    "Gorilla"
+  ],
+  "Hipster Glasses": [
+    "Gorilla",
+    "Owl",
+    "Seal"
+  ],
+  "Black Bunny": [
+    "Gorilla",
+    "Platypus"
+  ],
+  "Blue Monkey Toy": [
+    "Gorilla"
+  ],
+  "Green Monkey Toy": [
+    "Gorilla"
+  ],
+  "Grey Wolf Plushie": [
+    "Gray Wolf",
+    "Keeper"
+  ],
+  "Personal Forcefield": [
+    "Great Hawk",
+    "Lumpy"
+  ],
+  "Sacred Crests": [
+    "Great Hawk"
+  ],
+  "Summer Leaves": [
+    "Great Hawk",
+    "Koala",
+    "Queen Ant",
+    "Rattlesnake",
+    "Forest Wyvern"
+  ],
+  "Hawk's Wolf Plushie": [
+    "Great Hawk"
+  ],
+  "Blue Long Horns": [
+    "Great Stag"
+  ],
+  "Plasma Collar": [
+    "Great Stag",
+    "Spikeshell",
+    "Spinosaurus",
+    "Xavier",
+    "Purple Orthros"
+  ],
+  "Pearl Collar": [
+    "Great Stag",
+    "Moonbeam",
+    "Sea Turtle",
+    "Seagull",
+    "Unicorn"
+  ],
+  "Moose Horns": [
+    "Great Stag"
+  ],
+  "Reindeer Plushie": [
+    "Great Stag"
+  ],
+  "Deer Mask": [
+    "Great Stag",
+    "Irish Elk Buck"
+  ],
+  "Blue Shoulder Spikes": [
+    "Great White Shark",
+    "Water Dragon Walking",
+    "Blue Marlin"
+  ],
+  "Silver's Dragon Plushie": [
+    "Great White Shark",
+    "Blue Marlin"
+  ],
+  "Shark Fin": [
+    "Great White Shark",
+    "Blue Marlin"
+  ],
+  "Shark Tail": [
+    "Great White Shark",
+    "Hammerhead Shark",
+    "Mermaid Myranda",
+    "Blue Marlin"
+  ],
+  "Blue Butt Spikes": [
+    "Great White Shark",
+    "Water Dragon Flying",
+    "Blue Marlin"
+  ],
+  "Ianthe Backpack": [
+    "Great Wildebeest"
+  ],
+  "Lupine's Pendant": [
+    "Great Wildebeest",
+    "Lycurgus",
+    "Overgrown Zebra",
+    "Pug",
+    "Sea Serpent"
+  ],
+  "ZT Helmet": [
+    "Great Wildebeest",
+    "Leopard Seal",
+    "Overgrown Gazelle",
+    "Sea Serpent"
+  ],
+  "Dragon Bracelet": [
+    "Great Wildebeest",
+    "Hydra",
+    "Lion Cub",
+    "Overgrown Zebra",
+    "Sea Serpent",
+    "Stormbringer"
+  ],
+  "Black Spiked Collar": [
+    "Greater Gazelle",
+    "Snowdrop"
+  ],
+  "Yellow Claws L": [
+    "Greater Gazelle",
+    "Zeva"
+  ],
+  "Yellow Claws R": [
+    "Greater Gazelle",
+    "Zeva"
+  ],
+  "Yellow Spiked Collar": [
+    "Greater Gazelle",
+    "Moonbeam"
+  ],
+  "Green Long Horns": [
+    "Greater Gazelle"
+  ],
+  "Azure Backpack": [
+    "Greater Gazelle"
+  ],
+  "Purple Claws L": [
+    "Greater Giraffe",
+    "Shadow"
+  ],
+  "Purple Claws R": [
+    "Greater Giraffe",
+    "Shadow"
+  ],
+  "Purple Spiked Collar": [
+    "Greater Giraffe",
+    "Hamster",
+    "Shadow",
+    "Guinea Pig",
+    "Capybara"
+  ],
+  "Red Lion Plushie": [
+    "Greater Giraffe",
+    "Red Fox",
+    "Red Manticore Walking",
+    "Red Manticore Flying",
+    "Sabertooth Lion"
+  ],
+  "Green Bunny Toy": [
+    "Green Easter Bunny"
+  ],
+  "Green Bunny Plushie": [
+    "Green Easter Bunny"
+  ],
+  "Green Present Belt": [
+    "Green Manticore",
+    "Green Manticore Flying"
+  ],
+  "Left Paw Green": [
+    "Green Manticore",
+    "Green Manticore Flying",
+    "Land Shark",
+    "Plains Dragon"
+  ],
+  "Right Paw Green": [
+    "Green Manticore",
+    "Green Manticore Flying",
+    "Land Shark",
+    "Plains Dragon"
+  ],
+  "Lucifer's Horns Green": [
+    "Green Manticore",
+    "Green Manticore Flying"
+  ],
+  "katana Red": [
+    "Green Nightstalker",
+    "Purple Nightstalker",
+    "Red Drake",
+    "Red Nightstalker",
+    "White Drake"
+  ],
+  "Lucifer's Flame Horns G": [
+    "Green Nightstalker"
+  ],
+  "Green Dragon Wings": [
+    "Green Nightstalker",
+    "Forest Wyvern",
+    "QWERTY"
+  ],
+  "Rose": [
+    "Green Swallowtail",
+    "Manta Ray",
+    "Morpho",
+    "Praying Mantis"
+  ],
+  "Candy Cane": [
+    "Green Swallowtail",
+    "Morpho",
+    "Nautilus",
+    "Pemgi",
+    "Penguin",
+    "Snowman",
+    "Zebra Longwing",
+    "Snow Ball"
+  ],
+  "Obey's Satchel": [
+    "Grey Centaur",
+    "Witchy Ride"
+  ],
+  "Yellow DJ Headphones": [
+    "Grey Centaur",
+    "Irish Elk Buck"
+  ],
+  "Grey Winged Wolf": [
+    "Grey Centaur"
+  ],
+  "Seal of Rassilon": [
+    "Gryphon Flying"
+  ],
+  "Right Paw Red": [
+    "Gryphon Flying",
+    "Lion",
+    "Red Manticore Walking",
+    "Red Manticore Flying"
+  ],
+  "Left Paw Red": [
+    "Gryphon Flying",
+    "Lion",
+    "Red Manticore Walking",
+    "Red Manticore Flying"
+  ],
+  "Chieftain Feathers": [
+    "Gryphon Flying"
+  ],
+  "Grad's Sapphire Helm": [
+    "Hammerhead Shark",
+    "Lyrebird",
+    "Palomino Centaur",
+    "Sapphire"
+  ],
+  "Water Hammer": [
+    "Hammerhead Shark",
+    "Black Nightstalker"
+  ],
+  "Sandy Fin": [
+    "Hammerhead Shark"
+  ],
+  "Silver Hair ribbon": [
+    "Hamster",
+    "Guinea Pig",
+    "Capybara"
+  ],
+  "Red Hair ribbon": [
+    "Hamster",
+    "Red Squirrel",
+    "Guinea Pig",
+    "Capybara"
+  ],
+  "Purple Hair ribbon": [
+    "Hamster",
+    "Guinea Pig",
+    "Capybara"
+  ],
+  "Japan Flag": [
+    "Hare",
+    "Vulture"
+  ],
+  "Brazil Flag": [
+    "Hare"
+  ],
+  "China Flag": [
+    "Hare"
+  ],
+  "Czech Republic Flag": [
+    "Hare"
+  ],
+  "Denmark Flag": [
+    "Hare"
+  ],
+  "East Africa Flag": [
+    "Hare"
+  ],
+  "Finland Flag": [
+    "Hare"
+  ],
+  "DJ Headphones Pink": [
+    "Hatchling",
+    "Obsidian",
+    "Hatchling Blue"
+  ],
+  "Purple Crystal Hammer": [
+    "Hatchling",
+    "Hatchling Blue"
+  ],
+  "Yummy Marshmallow": [
+    "Hatchling",
+    "Hatchling ",
+    "Koala",
+    "Hatchling Blue",
+    "Hatchling Purple"
+  ],
+  "Warrior's Bow": [
+    "Haunted Tower",
+    "Irish Elk Buck",
+    "Keeper",
+    "Water Dragon Walking"
+  ],
+  "Warrior's Quiver": [
+    "Haunted Tower",
+    "Irish Elk Doe",
+    "Keeper",
+    "Water Dragon Walking"
+  ],
+  "Red Bracelet L": [
+    "Hawk",
+    "Lioness",
+    "Lynx"
+  ],
+  "Red Bracelet R": [
+    "Hawk",
+    "Lioness",
+    "Lynx"
+  ],
+  "Spike Earrings": [
+    "Hawk",
+    "Praying Mantis"
+  ],
+  "Red Flannel Scarf": [
+    "Hawk"
+  ],
+  "Green Spiked Collar": [
+    "Hedgehog",
+    "Skyscraper",
+    "Zeva"
+  ],
+  "Fenella Rose": [
+    "Hell Cat",
+    "HellHound"
+  ],
+  "Hippo Skull": [
+    "Hippopotamus",
+    "Terokkar"
+  ],
+  "Pink Dragon Mask": [
+    "Hippopotamus"
+  ],
+  "Pink Dragon Scale Vest": [
+    "Hippopotamus"
+  ],
+  "Black Silk Scarf": [
+    "Hippopotamus",
+    "Silverback",
+    "Ostrich"
+  ],
+  "Guilded Back": [
+    "Horus"
+  ],
+  "Eye Of Horus R": [
+    "Horus"
+  ],
+  "Eye Of Horus L": [
+    "Horus"
+  ],
+  "Bat Necklace": [
+    "Howler",
+    "Raven",
+    "Shadowgrazer",
+    "Skyshroud"
+  ],
+  "Orange Teddy": [
+    "Howler",
+    "Redback Spider"
+  ],
+  "Pumpkin Mask": [
+    "Howler",
+    "Python",
+    "Shadowgrazer"
+  ],
+  "Black Bubble": [
+    "Humpback Whale Baby"
+  ],
+  "Gray Bubble": [
+    "Humpback Whale Baby"
+  ],
+  "Brown Bubble": [
+    "Humpback Whale Baby"
+  ],
+  "Purple Bubble": [
+    "Humpback Whale Baby"
+  ],
+  "Green Bubble": [
+    "Humpback Whale Baby"
+  ],
+  "Teal Bubble": [
+    "Humpback Whale Baby",
+    "Panda"
+  ],
+  "The Blue Bubble": [
+    "Humpback Whale Baby"
+  ],
+  "Red Bubble": [
+    "Humpback Whale Baby"
+  ],
+  "Blue Bubble": [
+    "Humpback Whale Baby"
+  ],
+  "Mane of Soulfire": [
+    "Humpback Whale"
+  ],
+  "Obey's Cup of Tea": [
+    "Humpback Whale",
+    "Koala"
+  ],
+  "Blue Collar": [
+    "Husky",
+    "Peacock",
+    "Peahen",
+    "Sammy"
+  ],
+  "Cyan Collar": [
+    "Husky",
+    "Peacock",
+    "Peahen",
+    "Shadow",
+    "Blue Orthros"
+  ],
+  "Ice Eye L": [
+    "Husky",
+    "Ice Nasty",
+    "Sky Dragon"
+  ],
+  "Ice Eye R": [
+    "Husky",
+    "Ice Nasty",
+    "Sky Dragon"
+  ],
+  "Crystal Tri-Helm": [
+    "Hydra",
+    "Soldier Ant",
+    "Syntax Error"
+  ],
+  "Magic Lamp": [
+    "Hydra",
+    "Djinn"
+  ],
+  "Leonardo's Glasses": [
+    "Hyena",
+    "Irish Elk Buck"
+  ],
+  "Den Bracelet": [
+    "Hyena",
+    "Lion Cub",
+    "Night Dragon",
+    "Skyscraper"
+  ],
+  "Team Ianthe": [
+    "Ianthe Walking"
+  ],
+  "Fire of Ianthe": [
+    "Ianthe Walking",
+    "Pharamond Walking",
+    "Pharamond Flying"
+  ],
+  "Ianthe Amulet": [
+    "Ianthe Walking",
+    "IANTHE Flying"
+  ],
+  "Ianthe Dragon Egg": [
+    "IANTHE Flying"
+  ],
+  "Purple Dragon Helmet": [
+    "IANTHE Flying"
+  ],
+  "Ianthe's Rune Blade": [
+    "IANTHE Flying"
+  ],
+  "Ice Bone Dragon Egg": [
+    "Ice Bone Dragon"
+  ],
+  "Green Ram Horns": [
+    "Ice Bone Dragon"
+  ],
+  "White Dragon Wings": [
+    "Ice Bone Dragon"
+  ],
+  "Blue Dragon Wings": [
+    "Ice Nasty",
+    "Byte"
+  ],
+  "Demon Wings": [
+    "iHatch 2.0",
+    "MegaRaptor"
+  ],
+  "Ruby Tri-Helm": [
+    "Imp",
+    "Infernal",
+    "Rhino"
+  ],
+  "Lava Stone Helmet": [
+    "Infernal",
+    "Magma Wyvern"
+  ],
+  "Gold UniHorn": [
+    "Infernal"
+  ],
+  "Ruby Horns": [
+    "Infernal",
+    "Marax Walking",
+    "Queen Ant",
+    "Ruby"
+  ],
+  "Crystal Unicorn Horn": [
+    "Infernal"
+  ],
+  "DJ Headphones Yellow": [
+    "Irish Elk Buck",
+    "Pegasus",
+    "Pooka"
+  ],
+  "Deer Antlers": [
+    "Irish Elk Buck",
+    "Irish Elk Doe",
+    "Tiger"
+  ],
+  "DJ Headphones Red": [
+    "Irish Elk Doe",
+    "Ruby"
+  ],
+  "Spyral's Glasses": [
+    "Irish Elk Doe",
+    "Snake"
+  ],
+  "Pink Flower Antlers": [
+    "Irish Elk Doe"
+  ],
+  "Left Midas Touch": [
+    "Jackal"
+  ],
+  "Jackal Toy": [
+    "Jackal",
+    "Sutekh"
+  ],
+  "Right Midas Touch": [
+    "Jackal"
+  ],
+  "Blue Bell": [
+    "Jaguar",
+    "Blue Nightstalker"
+  ],
+  "Yellow Shades": [
+    "Jaguar"
+  ],
+  "Teal Present Belt": [
+    "Jaguar"
+  ],
+  "Lime Long Horns": [
+    "Jaguar"
+  ],
+  "Yellow Ram Horns": [
+    "Jaguar"
+  ],
+  "Green T-Rex": [
+    "Jungle Lizard",
+    "T-Rex",
+    "Allosaurus"
+  ],
+  "Black Assassin": [
+    "Jungle Lizard",
+    "Mummy",
+    "Nightshade Dragon Walking",
+    "Djinn"
+  ],
+  "Cat Eye L": [
+    "Jungle Nasty",
+    "Lion Cub"
+  ],
+  "Camo Vest": [
+    "Jungle Nasty"
+  ],
+  "Cat Eye R": [
+    "Jungle Nasty",
+    "Lion Cub"
+  ],
+  "Green Fedora": [
+    "Kangaroo"
+  ],
+  "Teal BigBell": [
+    "Kangaroo",
+    "Snowdrop"
+  ],
+  "Black Butt Spikes": [
+    "Keeper",
+    "Nightshade Dragon Flying"
+  ],
+  "royal sword": [
+    "Keeper",
+    "Lycurgus",
+    "Midnight",
+    "Quilin"
+  ],
+  "The Treasure Key": [
+    "Key",
+    "Plesiosaur",
+    "Sand Dragon"
+  ],
+  "Australia": [
+    "Koala"
+  ],
+  "Toxic Shock L": [
+    "Lab Rat"
+  ],
+  "Dead Mouse": [
+    "Lab Rat",
+    "Mouse",
+    "Rat"
+  ],
+  "Toxic Shock R": [
+    "Lab Rat"
+  ],
+  "Red Vial": [
+    "Lab Rat"
+  ],
+  "Lava Collar": [
+    "Lava Worm",
+    "Rattlesnake",
+    "Zeva"
+  ],
+  "Ruby Crystal Shard": [
+    "Lava Worm",
+    "Magma Wyvern",
+    "Mermaid Chloe"
+  ],
+  "Bangles R": [
+    "Lava Worm",
+    "Parrot"
+  ],
+  "Bangles L": [
+    "Lava Worm",
+    "Parrot"
+  ],
+  "Red Centurian": [
+    "Lazyzim"
+  ],
+  "Lazy's Bracer L": [
+    "Lazyzim"
+  ],
+  "Lazy's Bracer R": [
+    "Lazyzim"
+  ],
+  "Claws of Ra L": [
+    "Lazyzim"
+  ],
+  "Claws of Ra R": [
+    "Lazyzim"
+  ],
+  "Lazy's Guard L": [
+    "Lazyzim"
+  ],
+  "Lazy's Guard R": [
+    "Lazyzim"
+  ],
+  "Blue Plaid Scarf": [
+    "Leopard Seal",
+    "Walrus",
+    "Kappa"
+  ],
+  "Blue Christmas Hat": [
+    "Leopard Seal",
+    "Royal Penguin",
+    "Winter Hare"
+  ],
+  "Blue DJ Headphones": [
+    "Leopard Seal",
+    "Palomino Centaur"
+  ],
+  "Lion Cub": [
+    "Lion Cub",
+    "Lioness",
+    "Lynx"
+  ],
+  "Rainbow Whiskers": [
+    "Lion Cub",
+    "Mutant Rat",
+    "Red Squirrel"
+  ],
+  "Pyrrhus Backpack": [
+    "Lion"
+  ],
+  "Elder Saber Fangs": [
+    "Lion",
+    "Mammoth",
+    "Pug",
+    "Sabertooth Tiger"
+  ],
+  "White Lion Plushie": [
+    "Lion",
+    "Snow Leopard",
+    "White Manticore Walking",
+    "White Manticore Flying"
+  ],
+  "Saber Fangs": [
+    "Lioness",
+    "Raven",
+    "Lynx"
+  ],
+  "Chloris Backpack": [
+    "Lioness"
+  ],
+  "Blue Wizard Hat": [
+    "Lycurgus"
+  ],
+  "Purple Cowboy Hat": [
+    "Lyrebird",
+    "Thalassa"
+  ],
+  "Mane of the Blaze": [
+    "Magma Wyvern"
+  ],
+  "Green BigBell": [
+    "Mammoth",
+    "Moonbeam"
+  ],
+  "Red Bell": [
+    "Mammoth"
+  ],
+  "Cutie Ram Horns": [
+    "Mammoth"
+  ],
+  "White Long Horns": [
+    "Mammoth"
+  ],
+  "White Domino Mask": [
+    "Manta Ray"
+  ],
+  "Flash Bang Red": [
+    "Marax Walking"
+  ],
+  "Flash Bang Orange": [
+    "Marax Flying "
+  ],
+  "Jussu's Dragon Plushie": [
+    "Medeina"
+  ],
+  "Yellow Head Spikes": [
+    "Meganeura",
+    "Insidior"
+  ],
+  "Opal Tri-Helm": [
+    "Meganeura",
+    "Microraptor",
+    "Rattlesnake"
+  ],
+  "Gold Dragon Wings": [
+    "Meganeura",
+    "Hand of Fate"
+  ],
+  "Topaz Crystal Shard": [
+    "Mermaid Oriana",
+    "Palomino",
+    "Pegasus",
+    "Sabertooth Lion"
+  ],
+  "Auroa's Dragon Plushie": [
+    "Mermaid Auroa"
+  ],
+  "Black Feathers": [
+    "Microraptor",
+    "Necromancer",
+    "Onmoraki",
+    "Raven",
+    "Silverback",
+    "Black Orthros"
+  ],
+  "Curved Unicorn Horn": [
+    "Midnight",
+    "Unicorn"
+  ],
+  "RAINBOW BUTT!": [
+    "Midnight",
+    "Orthros"
+  ],
+  "Black Unicorn Horn": [
+    "Midnight"
+  ],
+  "Kuwaki's Dragon Plushie": [
+    "Midnight"
+  ],
+  "Lime Ram Horns": [
+    "Monarch Butterfly"
+  ],
+  "Orange Bell": [
+    "Monarch Butterfly"
+  ],
+  "Jaslo's Dragon Plushie": [
+    "Monster Ray",
+    "Treasure Chest",
+    "Kraken"
+  ],
+  "White Claws R": [
+    "Moonbeam",
+    "Zebra"
+  ],
+  "White Claws L": [
+    "Moonbeam",
+    "Zebra"
+  ],
+  "Pink Earring": [
+    "Morpho",
+    "Praying Mantis"
+  ],
+  "Green Shard": [
+    "Mulga Snake",
+    "Rattlesnake",
+    "Spikeshell",
+    "Stingray",
+    "Velociraptor",
+    "Green Orthros"
+  ],
+  "White Spiked Collar": [
+    "Mulga Snake",
+    "Sassy",
+    "Xiang Lung"
+  ],
+  "Chest Bandage": [
+    "Mummy"
+  ],
+  "Head Bandage": [
+    "Mummy"
+  ],
+  "Bandage L": [
+    "Mummy"
+  ],
+  "Bandage R": [
+    "Mummy"
+  ],
+  "Green Pirate Hat": [
+    "Mutant Hare",
+    "Stingray",
+    "Squid"
+  ],
+  "Personal Shield": [
+    "Mutant Hare",
+    "Mutant Rat",
+    "Scorpid"
+  ],
+  "Christmas Bell": [
+    "Nautilus",
+    "Okapi",
+    "Penguin",
+    "Snowman"
+  ],
+  "Tail Ribbon": [
+    "Nautilus",
+    "Starfish"
+  ],
+  "Eye Patch": [
+    "Nautilus",
+    "Sammy"
+  ],
+  "MK.II Bracer L": [
+    "Necromancer"
+  ],
+  "Black Dragon Skull": [
+    "Necromancer",
+    "Nightshade Dragon Walking",
+    "Nightshade Dragon Flying"
+  ],
+  "Kerru's Dragon Plushie": [
+    "Necromancer",
+    "Robot Wyvern"
+  ],
+  "Sword Of Kings": [
+    "Nekhbet",
+    "Sand Dragon",
+    "T-Rex",
+    "Lynx",
+    "Insidior",
+    "Allosaurus"
+  ],
+  "Nile Talisman": [
+    "Nekhbet"
+  ],
+  "Crests of the Abyss": [
+    "Nevermore"
+  ],
+  "Sapphire Tri-Helm": [
+    "Night Dragon",
+    "Rhino"
+  ],
+  "Night Dragon Egg": [
+    "Night Dragon"
+  ],
+  "Black Circus Bridle": [
+    "Night Watcher"
+  ],
+  "Shanol's Dragon Plushie": [
+    "Nightmare",
+    "Soul Eater"
+  ],
+  "Black Shoulder Spikes": [
+    "Nightshade Dragon Walking",
+    "Onmoraki"
+  ],
+  "Biomech Claw R": [
+    "Nightshade Dragon Walking"
+  ],
+  "Biomech Claw L": [
+    "Nightshade Dragon Walking"
+  ],
+  "Chromasistor Claw R": [
+    "Nightshade Dragon Flying"
+  ],
+  "Grell-chan's Dragon Plushie": [
+    "Nightshade Dragon Flying"
+  ],
+  "Chromasistor Claw L": [
+    "Nightshade Dragon Flying"
+  ],
+  "Purple Centurian": [
+    "ObeyTheFist"
+  ],
+  "Obey's Bracer L": [
+    "ObeyTheFist"
+  ],
+  "Obey's Bracer R": [
+    "ObeyTheFist"
+  ],
+  "Claws of Anubis L": [
+    "ObeyTheFist"
+  ],
+  "Claws of Anubis R": [
+    "ObeyTheFist"
+  ],
+  "Obey's Guard L": [
+    "ObeyTheFist"
+  ],
+  "Obey's Guard R": [
+    "ObeyTheFist"
+  ],
+  "Water Sickle": [
+    "Okapi",
+    "Pretus Walking",
+    "Pretus Flying",
+    "Thalassa"
+  ],
+  "Bleed's Dragon Plushie": [
+    "Onmoraki"
+  ],
+  "Gold Halo": [
+    "Onmoraki",
+    "Storm Wyvern",
+    "Zombie Wyvern",
+    "Zombie Dragon Flying"
+  ],
+  "Goat Skull": [
+    "Onmoraki"
+  ],
+  "Poke Ball": [
+    "Orak",
+    "Kappa"
+  ],
+  "Orange Eye Glow L": [
+    "Orak",
+    "Plague Bird",
+    "Snake"
+  ],
+  "Orange Eye Glow R": [
+    "Orak",
+    "Plague Bird",
+    "Snake"
+  ],
+  "googles": [
+    "Orak",
+    "Nitorkkar"
+  ],
+  "Cutie Present Belt": [
+    "Orca"
+  ],
+  "Orca Plushie [H]": [
+    "Orca"
+  ],
+  "Umbreon's Dragon Plushie": [
+    "Orca"
+  ],
+  "Orca Plushie [B]": [
+    "Orca"
+  ],
+  "Yellow Shoulder Spikes": [
+    "Oryx",
+    "Overgrown Gazelle"
+  ],
+  "Antelope Horns": [
+    "Oryx"
+  ],
+  "Samurai's Dragon Plushie": [
+    "Oryx"
+  ],
+  "Broken Battle Claws L": [
+    "Overgrown Gazelle",
+    "Skelly-Rex"
+  ],
+  "Broken Battle Claws R": [
+    "Overgrown Gazelle",
+    "Sentinel",
+    "Skelly-Rex"
+  ],
+  "Broken Bracer R": [
+    "Overgrown Zebra",
+    "Sentinel",
+    "Skelly-Rex"
+  ],
+  "Green Claws L": [
+    "Overgrown Zebra",
+    "Sammy"
+  ],
+  "Green Claws R": [
+    "Overgrown Zebra",
+    "Sammy"
+  ],
+  "Broken Bracer L": [
+    "Overgrown Zebra",
+    "Sentinel",
+    "Skelly-Rex"
+  ],
+  "White Bridle": [
+    "Palomino"
+  ],
+  "Red Shoulder Spikes": [
+    "Palomino"
+  ],
+  "Blue Satchel": [
+    "Palomino Centaur",
+    "Viral Attack"
+  ],
+  "Brown Whiskers": [
+    "Panda",
+    "Squirrel"
+  ],
+  "Visualizer's Bracer R": [
+    "Panther"
+  ],
+  "Blue Shades": [
+    "Panther",
+    "Tainted Eye"
+  ],
+  "Brown Bell": [
+    "Panther"
+  ],
+  "Panther Cub": [
+    "Panther"
+  ],
+  "Rainbow Collar": [
+    "Parrot",
+    "Sammy",
+    "Unicorn"
+  ],
+  "Parrot Feathers": [
+    "Parrot"
+  ],
+  "Teal Shades": [
+    "Peacock Butterfly"
+  ],
+  "Purple Bell": [
+    "Peacock Butterfly"
+  ],
+  "Green Collar": [
+    "Peacock",
+    "Peahen",
+    "Zeva",
+    "Green Orthros"
+  ],
+  "Cloudy Legs R": [
+    "Pegasus",
+    "Lightning",
+    "Thunder"
+  ],
+  "Cloudy Legs L": [
+    "Pegasus",
+    "Lightning",
+    "Thunder"
+  ],
+  "Left Magic Touch": [
+    "Lightning",
+    "Pooka"
+  ],
+  "Right Magic Touch": [
+    "Lightning",
+    "Pooka"
+  ],
+  "Left Lava Steps": [
+    "Lightning",
+    "Pooka"
+  ],
+  "Right Lava Steps": [
+    "Lightning",
+    "Pooka"
+  ],
+  "Left Paint Trail": [
+    "Thunder"
+  ],
+  "Right Paint Trail": [
+    "Thunder"
+  ],
+  "Left Dripping Wet": [
+    "Thunder"
+  ],
+  "Right Dripping Wet": [
+    "Thunder"
+  ],
+  "Twig": [
+    "Pemgi",
+    "Penguin",
+    "Praying Mantis",
+    "Snowman"
+  ],
+  "Pink Christmas Hat": [
+    "Pemgi"
+  ],
+  "Brown Christmas Hat": [
+    "Pemgi"
+  ],
+  "Pyrotech Bracer R": [
+    "Phoenix"
+  ],
+  "Phoenix Wings": [
+    "Phoenix",
+    "Golden Angel Dragon"
+  ],
+  "Levair's Dragon Plushie": [
+    "Phoenix"
+  ],
+  "Phoenix Shard": [
+    "Phoenix"
+  ],
+  "Phoenix Feathers": [
+    "Phoenix"
+  ],
+  "Pink Tutu": [
+    "Pig",
+    "Piggie",
+    "Sassy"
+  ],
+  "Tattered Tie": [
+    "Pig",
+    "Raccoon",
+    "Scorpion",
+    "Skeleton",
+    "Zombie"
+  ],
+  "Pink Ram Horns": [
+    "Pig"
+  ],
+  "Pink Long Horns": [
+    "Piggie"
+  ],
+  "Ryoga's Bandana": [
+    "Piggie"
+  ],
+  "Plague Doctor": [
+    "Plague Bird"
+  ],
+  "Plains Dragon Egg": [
+    "Plains Dragon"
+  ],
+  "Pirate Bandana": [
+    "Platypus",
+    "Stingray",
+    "Pi-Rat",
+    "Squid"
+  ],
+  "Silver Carved Ring": [
+    "Platypus",
+    "Python"
+  ],
+  "Flash Bang Blue": [
+    "Pretus Walking"
+  ],
+  "Red Gothic Crown": [
+    "Pretus Walking"
+  ],
+  "Sapphire Horns": [
+    "Pretus Walking",
+    "Sapphire"
+  ],
+  "Flash Bang Purple": [
+    "Pretus Flying"
+  ],
+  "Black Gothic Crown": [
+    "Pretus Flying"
+  ],
+  "Purple Fury Bubble": [
+    "Pterodactyl"
+  ],
+  "Teal Long Horns": [
+    "Pterodactyl"
+  ],
+  "MP5 Sub-Machine Gun": [
+    "Pterodactyl",
+    "Velociraptor"
+  ],
+  "Orange Spiked Collar": [
+    "Puppy",
+    "Xavier"
+  ],
+  "Violet Bunny Toy": [
+    "Purple Easter Bunny"
+  ],
+  "Purple Bunny Plushie": [
+    "Purple Easter Bunny"
+  ],
+  "Lucifer's Horns Purple": [
+    "Purple Manticore Walking",
+    "Purple Manticore Flying"
+  ],
+  "Purple Dragon Wings": [
+    "Purple Nightstalker"
+  ],
+  "Team Pyrrhus": [
+    "Pyrrhus Walking"
+  ],
+  "Fire of Pyrrhus": [
+    "Pyrrhus Walking",
+    "Pharamond Walking",
+    "Pharamond Flying"
+  ],
+  "Pyrrhus Amulet": [
+    "Pyrrhus Walking",
+    "PYRRHUS Flying"
+  ],
+  "Pyrrhus Dragon Egg": [
+    "PYRRHUS Flying"
+  ],
+  "Red Dragon Helmet": [
+    "PYRRHUS Flying"
+  ],
+  "Pyrrhus's Flame Blade": [
+    "PYRRHUS Flying"
+  ],
+  "Pumpkin Basket": [
+    "Python",
+    "Shadowgrazer",
+    "Skyshroud"
+  ],
+  "Bright Space": [
+    "Pythos"
+  ],
+  "Crests of Soulfire": [
+    "Pythos"
+  ],
+  "Lazy's Dragon Plushie": [
+    "Pythos",
+    "Treasure Chest"
+  ],
+  "Quartz Horns": [
+    "Quilin"
+  ],
+  "Golden Unicorn Horn": [
+    "Quilin",
+    "Birthday Surprize"
+  ],
+  "Pink Unicorn Horn": [
+    "Quilin"
+  ],
+  "Sacred Mane": [
+    "Rainbow Serpent"
+  ],
+  "Rainbow Dragon Scale Vest": [
+    "Rainbow Serpent"
+  ],
+  "Rainbow Dragon Mask": [
+    "Rainbow Serpent"
+  ],
+  "King's Helm": [
+    "Rat",
+    "Insidior"
+  ],
+  "Brown Wizard Hat": [
+    "Rat"
+  ],
+  "Teal Wizard Hat": [
+    "Raven"
+  ],
+  "Garnet Horns": [
+    "Red Drake"
+  ],
+  "Red Bunny Toy": [
+    "Red Easter Bunny"
+  ],
+  "Red Bunny Plushie": [
+    "Red Easter Bunny"
+  ],
+  "Long Red Checkered Scarf": [
+    "Red Fox",
+    "Red Panda",
+    "Turkey"
+  ],
+  "Lucifer's Horns Red": [
+    "Red Manticore Walking",
+    "Red Manticore Flying"
+  ],
+  "Lucifer's Flame Horns R": [
+    "Red Nightstalker"
+  ],
+  "Western Bandana": [
+    "Red Panda",
+    "Sasquatch"
+  ],
+  "Red Cowboy Hat": [
+    "Red Squirrel",
+    "Snake"
+  ],
+  "Red Teddy": [
+    "Red Squirrel",
+    "Ruby"
+  ],
+  "Golden Horns": [
+    "Rhino",
+    "White Manticore Flying"
+  ],
+  "Prismatic Bracer L": [
+    "Rhino"
+  ],
+  "Deimos Backpack": [
+    "Rhino"
+  ],
+  "Penguin Toy": [
+    "Royal Penguin"
+  ],
+  "Cutie Shades": [
+    "Royal Penguin"
+  ],
+  "Cutie BigBell": [
+    "Royal Penguin",
+    "Timmy"
+  ],
+  "Yellow Christmas Hat": [
+    "Royal Penguin"
+  ],
+  "Christmas Stocking": [
+    "Royal Penguin",
+    "Winter Hare"
+  ],
+  "Rudolph's Plushie": [
+    "Rudolph"
+  ],
+  "Jingle Bell Collar": [
+    "Rudolph"
+  ],
+  "Jingle Bells": [
+    "Rudolph"
+  ],
+  "Jingle Bells L": [
+    "Rudolph"
+  ],
+  "Jingle Bells R": [
+    "Rudolph"
+  ],
+  "Jingle Bells Back Leg L": [
+    "Rudolph"
+  ],
+  "Jingle Bells Back Leg R": [
+    "Rudolph"
+  ],
+  "LionPaw Necklace": [
+    "Sabertooth Lion"
+  ],
+  "Salmon": [
+    "Salmon"
+  ],
+  "Brown BigBell": [
+    "Sammy"
+  ],
+  "Yellow T-Rex": [
+    "Sand Dragon",
+    "Sand Lizard",
+    "T-Rex",
+    "Allosaurus"
+  ],
+  "Cougar Cub": [
+    "Sasquatch"
+  ],
+  "Witchy Ride": [
+    "Sassy",
+    "Skeleton",
+    "Spectre",
+    "Witchy Ride"
+  ],
+  "Purple Fedora": [
+    "Sassy"
+  ],
+  "Silver Scarab": [
+    "Scarab Beetle",
+    "Sutekh"
+  ],
+  "Gold Scarab": [
+    "Scarab Beetle",
+    "Sutekh"
+  ],
+  "Biomech Bracer L": [
+    "Scorpion King"
+  ],
+  "pizza!": [
+    "Seahorse"
+  ],
+  "Dragon Mask": [
+    "Seahorse"
+  ],
+  "Pink Circus Bridle": [
+    "Seal"
+  ],
+  "Slayer": [
+    "Sentinel",
+    "Terokkar",
+    "Velociraptor"
+  ],
+  "Rusty Centurian": [
+    "Sentinel",
+    "Skelly-Rex",
+    "Vulcan"
+  ],
+  "Skull Mask": [
+    "Sentinel",
+    "Skeleton"
+  ],
+  "Broken Guard L": [
+    "Sentinel",
+    "Skelly-Rex",
+    "Skyscraper"
+  ],
+  "Blue BigBell": [
+    "Shadow"
+  ],
+  "Black Fedora2": [
+    "Shadow"
+  ],
+  "Pink Cowboy Hat": [
+    "Shadowgrazer"
+  ],
+  "Black Fluff Leg Warmer L": [
+    "Sheep"
+  ],
+  "Black Fluff Leg Warmer R": [
+    "Sheep"
+  ],
+  "Forest Stripe Leg Warmer L": [
+    "Sheep"
+  ],
+  "Forest Stripe Leg Warmer R": [
+    "Sheep"
+  ],
+  "Cute Stripe Leg Warmer L": [
+    "Sheep"
+  ],
+  "Cute Stripe Leg Warmer R": [
+    "Sheep"
+  ],
+  "Nature Stripe Leg Warmer L": [
+    "Sheep"
+  ],
+  "Nature Stripe Leg Warmer R": [
+    "Sheep"
+  ],
+  "Pink Stripe Leg Warmer L": [
+    "Sheep"
+  ],
+  "Pink Stripe Leg Warmer R": [
+    "Sheep"
+  ],
+  "Violet Monkey Toy": [
+    "Silverback"
+  ],
+  "Monkey Toy": [
+    "Silverback"
+  ],
+  "Ghosts and Ghouls": [
+    "Skeleton",
+    "Spectre",
+    "Zombie"
+  ],
+  "Trick or Treat": [
+    "Skeleton",
+    "Spectre"
+  ],
+  "Orange Wizard Hat": [
+    "Skeleton"
+  ],
+  "LittleReb \u2014 23/01/2024 11:49": [
+    "Skeleton"
+  ],
+  "Broken Guard R": [
+    "Skelly-Rex",
+    "Skyscraper"
+  ],
+  "Pollux's Visor": [
+    "Skunk",
+    "Viral Attack"
+  ],
+  "Cloudy Paws R": [
+    "Sky Dragon"
+  ],
+  "Sky Dragon Egg": [
+    "Sky Dragon"
+  ],
+  "Cloudy Paws L": [
+    "Sky Dragon"
+  ],
+  "Blue Circus Bridle": [
+    "Sky Dragon"
+  ],
+  "Prismatic Bracer R": [
+    "Skyshroud"
+  ],
+  "Angel Wings": [
+    "Skyshroud"
+  ],
+  "White Bell": [
+    "Snow Leopard"
+  ],
+  "Grey Shades": [
+    "Snow Leopard"
+  ],
+  "Grey Present Belt": [
+    "Snow Leopard"
+  ],
+  "Black Ram Horns": [
+    "Snow Leopard"
+  ],
+  "Grey Ram Horns": [
+    "Snow Leopard"
+  ],
+  "Snow Leopard Cub": [
+    "Snow Leopard"
+  ],
+  "Pink BigBell": [
+    "Snowdrop"
+  ],
+  "Purple BigBell": [
+    "Snowdrop"
+  ],
+  "Ryder's Dragon Plushie": [
+    "Soul Eater ",
+    "Treasure Chest"
+  ],
+  "Dimetrodon Sail": [
+    "Spinobaby",
+    "Spinosaurus"
+  ],
+  "Brown Cowboy Hat": [
+    "Squirrel",
+    "Wallaby"
+  ],
+  "Teddy Bear": [
+    "Squirrel"
+  ],
+  "Lime Shades": [
+    "Stegosaurus"
+  ],
+  "Brown Present Belt": [
+    "Stegosaurus"
+  ],
+  "Yellow Long Horns": [
+    "Stegosaurus"
+  ],
+  "White Ram Horns": [
+    "Stegosaurus"
+  ],
+  "Stormy Paws": [
+    "Storm",
+    "Storm",
+    "Thunderbird",
+    "Thunderbird"
+  ],
+  "Storm Dragon Egg": [
+    "Storm"
+  ],
+  "Mauve Horns": [
+    "Storm"
+  ],
+  "Gold Dragon Helmet": [
+    "Storm Wyvern",
+    "T-Rex",
+    "Zombie Wyvern",
+    "Zombie Dragon Walking",
+    "Allosaurus"
+  ],
+  "Stormy Mane": [
+    "Storm Wyvern",
+    "Thunderbird"
+  ],
+  "Stormbringer Egg": [
+    "Stormbringer"
+  ],
+  "Pixie Wings": [
+    "Syntax Error"
+  ],
+  "Yellow Circus Bridle": [
+    "Tainted Eye"
+  ],
+  "Stormy Legs R": [
+    "Tempest",
+    "Thunderbird"
+  ],
+  "Stormy Legs L": [
+    "Tempest",
+    "Thunderbird"
+  ],
+  "Skyvoryx's Purple Shard": [
+    "Terokkar"
+  ],
+  "Ephira's Rose": [
+    "Terokkar"
+  ],
+  "Green Circus Bridle": [
+    "Thalassa"
+  ],
+  "Bunny Toy": [
+    "The Easter Bunny"
+  ],
+  "Easter Bunny Plushie": [
+    "The Easter Bunny"
+  ],
+  "Purple Circus Bridle": [
+    "The Seeker"
+  ],
+  "White Circus Bridle": [
+    "The Watcher",
+    "White Horse"
+  ],
+  "Orange Shades": [
+    "Tiger"
+  ],
+  "Tiger Cub": [
+    "Tiger"
+  ],
+  "Green Shades": [
+    "Tiger Swallowtail"
+  ],
+  "Pink Bell": [
+    "Tiger Swallowtail"
+  ],
+  "Orange BigBell": [
+    "Timmy",
+    "Xavier"
+  ],
+  "Orange T-Rex": [
+    "T-Rex",
+    "Allosaurus"
+  ],
+  "Fairy Lights": [
+    "Triffid",
+    "Xiang Lung",
+    "Summer Flying",
+    "Autumn Flying",
+    "Winter Flying",
+    "Spring Flying",
+    "Summer Walking",
+    "Autumn Walking",
+    "Winter Walking",
+    "Spring Walking"
+  ],
+  "Cheek Spikes": [
+    "Triceratops",
+    "Velociraptor"
+  ],
+  "Triceratops Horns": [
+    "Triceratops"
+  ],
+  "U RainbowShard": [
+    "Unicorn"
+  ],
+  "Unicorn Horn": [
+    "Unicorn"
+  ],
+  "Red Wizard Hat": [
+    "Vampire Bat"
+  ],
+  "Seragaking412 Dragon Plushie": [
+    "Vampire Bat"
+  ],
+  "Team Verity": [
+    "Verity Walking"
+  ],
+  "Fire of Verity": [
+    "Verity Walking",
+    "Pharamond Walking",
+    "Pharamond Flying"
+  ],
+  "Verity Amulet": [
+    "Verity Walking",
+    "VERITY Flying"
+  ],
+  "Verity Dragon Egg": [
+    "VERITY Flying"
+  ],
+  "Verity's Light Blade": [
+    "VERITY Flying"
+  ],
+  "White Dragon Helmet": [
+    "VERITY Flying"
+  ],
+  "Green Wizard Hat": [
+    "Viper"
+  ],
+  "USSR Flag": [
+    "Vulture"
+  ],
+  "Germany Flag": [
+    "Vulture"
+  ],
+  "USA Flag": [
+    "Vulture"
+  ],
+  "Ukraine Flag": [
+    "Vulture"
+  ],
+  "Great Britain Flag": [
+    "Vulture"
+  ],
+  "Canada Flag": [
+    "Vulture"
+  ],
+  "New Zealand Flag": [
+    "Vulture"
+  ],
+  "Hot Pink Hoverboard": [
+    "Warthog"
+  ],
+  "Kite's Dragon Plushie": [
+    "Water Dragon Walking",
+    "Water Dragon Flying"
+  ],
+  "Cerulean Horns": [
+    "White Drake"
+  ],
+  "White Wolf Tie": [
+    "White Timber Wolf",
+    "White Wolf",
+    "White Orthros"
+  ],
+  "Mexico Flag": [
+    "Wildebeest",
+    "Lumpy"
+  ],
+  "Norway Flag": [
+    "Wildebeest"
+  ],
+  "Poland Flag": [
+    "Wildebeest"
+  ],
+  "Romania Flag": [
+    "Wildebeest"
+  ],
+  "Russian Flag": [
+    "Wildebeest"
+  ],
+  "Purple Christmas Hat": [
+    "Winter Hare"
+  ],
+  "Purple Wizard Hat": [
+    "Witchy Ride"
+  ],
+  "Flash Bang Green": [
+    "Xaphan Walking",
+    "Xaphan Flying"
+  ],
+  "Orange Fedora": [
+    "Xavier"
+  ],
+  "Sherbert Lollipop": [
+    "Xiang Lung"
+  ],
+  "Scotland Flag": [
+    "Zebra"
+  ],
+  "Singapore Flag": [
+    "Zebra"
+  ],
+  "Spain Flag": [
+    "Zebra"
+  ],
+  "South Africa Flag": [
+    "Zebra"
+  ],
+  "Sweden Flag": [
+    "Zebra"
+  ],
+  "Black BigBell": [
+    "Zeva"
+  ],
+  "Blue Fedora": [
+    "Zeva"
+  ],
+  "Crests of Felfire": [
+    "Zombie Wyvern"
+  ],
+  "Black Headdress": [
+    "MegaRaptor",
+    "Ostrich"
+  ],
+  "Frentus's Dragon Plushie": [
+    "MegaRaptor"
+  ],
+  "Red Headdress": [
+    "MegaRaptor",
+    "Ostrich"
+  ],
+  "Lexsann's Hammer": [
+    "MegaRaptor"
+  ],
+  "East Africa": [
+    "Ostrich"
+  ],
+  "Purple Hoverboard": [
+    "Zombie Boss"
+  ],
+  "Sheep Toy": [
+    "Lamb"
+  ],
+  "Blue Sheep Toy": [
+    "Lamb"
+  ],
+  "Green Sheep Toy": [
+    "Lamb"
+  ],
+  "Red Sheep Toy": [
+    "Lamb"
+  ],
+  "Violet Sheep Toy": [
+    "Lamb"
+  ],
+  "Yellow Sheep Toy": [
+    "Lamb"
+  ],
+  "K9 Vest": [
+    "HellHound"
+  ],
+  "Black Dragon Wings": [
+    "HellHound"
+  ],
+  "Green Hoverboard": [
+    "Malificus Grandiflora"
+  ],
+  "Yellow Potion": [
+    "Malificus Grandiflora"
+  ],
+  "Green Vial": [
+    "Malificus Grandiflora"
+  ],
+  "Purple Vial": [
+    "Malificus Grandiflora "
+  ],
+  "Yellow Hoverboard": [
+    "Malificus Grandiflora "
+  ],
+  "Blue Potion": [
+    "Malificus Grandiflora "
+  ],
+  "Green Potion": [
+    "Malificus Grandiflora  "
+  ],
+  "Blue Hoverboard": [
+    "Malificus Grandiflora  "
+  ],
+  "Blue Vial": [
+    "Malificus Grandiflora  "
+  ],
+  "Medic Vest": [
+    "Cyber Hominidae"
+  ],
+  "Purple Potion": [
+    "Cyber Hominidae"
+  ],
+  "Biomech Bracer R": [
+    "Cyber Hominidae"
+  ],
+  "Toxic Fog": [
+    "Cyber Hominidae"
+  ],
+  "Chromasistor Bracer L": [
+    "Sutekh"
+  ],
+  "Maverick's Dragon Plushie": [
+    "Sutekh"
+  ],
+  "Dragon Scale Vest": [
+    "Green Orthros"
+  ],
+  "Blue Dragon Scale Vest": [
+    "Blue Orthros"
+  ],
+  "Red Dragon Scale Vest": [
+    "Red Orthros"
+  ],
+  "coolarred": [
+    "Red Orthros"
+  ],
+  "Gold Dragon Scale Vest": [
+    "Gold Orthros"
+  ],
+  "colaryellow": [
+    "Gold Orthros"
+  ],
+  "Purple Dragon Scale Vest": [
+    "Purple Orthros"
+  ],
+  "White Dragon Scale Vest": [
+    "White Orthros"
+  ],
+  "Black Dragon Scale Vest": [
+    "Black Orthros"
+  ],
+  "Dream Catcher": [
+    "Forest Wyvern",
+    "Cave Ogre"
+  ],
+  "Gold Wreath": [
+    "Treasure Chest"
+  ],
+  "Silver Wreath": [
+    "Treasure Chest"
+  ],
+  "Bronze Wreath": [
+    "Treasure Chest"
+  ],
+  "LegendWolf's Dragon Plushie": [
+    "Treasure Chest",
+    "Cerberus"
+  ],
+  "Red Rose Crown": [
+    "Treasure Chest"
+  ],
+  "Gives You Wings!": [
+    "Treasure Chest"
+  ],
+  "Yellow Rose Crown": [
+    "Treasure Chest"
+  ],
+  "Blue Rose Crown": [
+    "Treasure Chest"
+  ],
+  "Black Rose Crown": [
+    "Treasure Chest"
+  ],
+  "Xenakis Dragon Plushie": [
+    "Treasure Chest",
+    "Ratri"
+  ],
+  "Pink Rose Crown": [
+    "Treasure Chest"
+  ],
+  "White Rose Crown": [
+    "Treasure Chest"
+  ],
+  "Purple Rose Crown": [
+    "Treasure Chest"
+  ],
+  "Things Go Better": [
+    "Treasure Chest"
+  ],
+  "Umbrella Hat": [
+    "Treasure Chest",
+    "Treasure Chest",
+    "Treasure Chest",
+    "Treasure Chest"
+  ],
+  "Pink Present Belt": [
+    "Pi-Rat"
+  ],
+  "Pirate Flag": [
+    "Pi-Rat"
+  ],
+  "Bone Scythe": [
+    "Cave Ogre"
+  ],
+  "Ruby Sword": [
+    "Cave Ogre"
+  ],
+  "Ryder's Wolf Plushie": [
+    "Cave Ogre"
+  ],
+  "Robotic Vest": [
+    "Cave Ogre"
+  ],
+  "Green Bridle": [
+    "Brown Centauress"
+  ],
+  "Red Bridle": [
+    "Black Centauress"
+  ],
+  "Blue Bridle": [
+    "Palomino Centauress"
+  ],
+  "Purple Bridle": [
+    "Grey Centauress"
+  ],
+  "Aurelian Horns": [
+    "Golden Angel Dragon"
+  ],
+  "DragonRe Dragon Plushie": [
+    "Golden Angel Dragon"
+  ],
+  "Sapphire Dragon Killer": [
+    "Blue Angel Dragon"
+  ],
+  "Angel Dragon's Dragon Plushie": [
+    "Blue Angel Dragon"
+  ],
+  "Blue Heart": [
+    "Zombie Baby",
+    "Blue Nightstalker"
+  ],
+  "Golden Heart": [
+    "Zombie Baby"
+  ],
+  "Red Heart": [
+    "Zombie Baby"
+  ],
+  "Purple Heart": [
+    "Zombie Baby"
+  ],
+  "Black Heart": [
+    "Zombie Baby",
+    "Black Nightstalker"
+  ],
+  "Checkered Scarf": [
+    "White Manticore Flying"
+  ],
+  "White Knitted Scarf": [
+    "White Manticore Flying"
+  ],
+  "LittleReb Dragon Plushie": [
+    "Djinn"
+  ],
+  "Red Paintbrush": [
+    "Rock Golem",
+    "Guivre"
+  ],
+  "Blue Paintbrush": [
+    "Rock Golem",
+    "Guivre"
+  ],
+  "Green Paintbrush": [
+    "Rock Golem",
+    "Guivre"
+  ],
+  "Violet Paintbrush": [
+    "Rock Golem",
+    "Guivre"
+  ],
+  "Yellow Paintbrush": [
+    "Rock Golem",
+    "Guivre"
+  ],
+  "Celtic Saddle": [
+    "White Horse"
+  ],
+  "Snowfall": [
+    "White Horse"
+  ],
+  "Maiden's Crown": [
+    "White Horse",
+    "Summer Flying",
+    "Autumn Flying",
+    "Winter Flying",
+    "Spring Flying",
+    "Summer Walking",
+    "Autumn Walking",
+    "Winter Walking",
+    "Spring Walking"
+  ],
+  "Frilled Horns": [
+    "Ratri"
+  ],
+  "Snow Flurry": [
+    "Ratri"
+  ],
+  "I'm Sleepy": [
+    "Ratri",
+    "Cerberus",
+    "Birthday Surprize"
+  ],
+  "AFK Flag": [
+    "Ratri",
+    "Jellyfish"
+  ],
+  "Summer Flower Garland": [
+    "Summer Flying",
+    "Summer Walking"
+  ],
+  "Summer Flower Collar": [
+    "Summer Flying",
+    "Summer Walking"
+  ],
+  "Summer Fairy's Wand": [
+    "Summer Flying",
+    "Summer Walking"
+  ],
+  "Autumn Flower Garland": [
+    "Autumn Flying",
+    "Autumn Walking"
+  ],
+  "Autumn Flower Collar": [
+    "Autumn Flying",
+    "Autumn Walking"
+  ],
+  "Autumn Fairy's Wand": [
+    "Autumn Flying",
+    "Autumn Walking"
+  ],
+  "Winter Flower Garland": [
+    "Winter Flying",
+    "Winter Walking"
+  ],
+  "Winter Flower Collar": [
+    "Winter Flying",
+    "Winter Walking"
+  ],
+  "Winter Fairy's Wand": [
+    "Winter Flying",
+    "Winter Walking"
+  ],
+  "Spring Flower Garland": [
+    "Spring Flying",
+    "Spring Walking"
+  ],
+  "Spring Flower Collar": [
+    "Spring Flying",
+    "Spring Walking"
+  ],
+  "Spring Fairy's Wand": [
+    "Spring Flying",
+    "Spring Walking"
+  ],
+  "Hungary Flag": [
+    "Sluggo",
+    "Sluggo"
+  ],
+  "Netherlands Flag": [
+    "Sluggo"
+  ],
+  "UAE Flag": [
+    "Sluggo"
+  ],
+  "Philippines Flag": [
+    "Sluggo",
+    "Lumpy"
+  ],
+  "The Vortex Slayer[H]": [
+    "Sluggo",
+    "Scorpid"
+  ],
+  "sleepy": [
+    "Lumpy"
+  ],
+  "Chile Flag": [
+    "Lumpy"
+  ],
+  "The Vortex Slayer[B]": [
+    "Lumpy"
+  ],
+  "Puerto Rico Flag": [
+    "Scorpid"
+  ],
+  "Peru Flag": [
+    "Scorpid"
+  ],
+  "Odd Sack 7": [
+    "QWERTY",
+    "Red Clan Grunt",
+    "Blue Clan Grunt",
+    "Goblin Sapper"
+  ],
+  "Golden Ram Horns": [
+    "Blue Nightstalker"
+  ],
+  "Lucifer's Flame Horns B": [
+    "Blue Nightstalker"
+  ],
+  "Giant Gold Horns": [
+    "Nitorkkar"
+  ],
+  "Odd Sack 1": [
+    "Red Clan Grunt",
+    "Blue Clan Grunt",
+    "Goblin Sapper"
+  ],
+  "Odd Sack 3": [
+    "Red Clan Grunt",
+    "Kzinti",
+    "Goblin Sapper"
+  ],
+  "Odd Sack 5": [
+    "Red Clan Grunt",
+    "Kappa",
+    "Goblin Sapper"
+  ],
+  "Odd Sack 2": [
+    "Green Clan Grunt",
+    "Blue Clan Grunt",
+    "Cerberus"
+  ],
+  "Odd Sack 4": [
+    "Green Clan Grunt",
+    "Malus Tuor"
+  ],
+  "Odd Sack 6": [
+    "Green Clan Grunt",
+    "Blue Clan Grunt"
+  ],
+  "Odd Sack 8": [
+    "Green Clan Grunt",
+    "Blue Clan Grunt"
+  ],
+  "Xroatoan's Dragon Plushie": [
+    "Insidior"
+  ],
+  "South Korea": [
+    "Jellyfish"
+  ],
+  "Austria": [
+    "Jellyfish"
+  ],
+  "Egypt Flag": [
+    "Jellyfish"
+  ],
+  "Bulgaria Flag": [
+    "Jellyfish"
+  ],
+  "Argentina Flag": [
+    "Jellyfish"
+  ],
+  "Flintlock": [
+    "Squid"
+  ],
+  "Woody's Holster R Empty": [
+    "Squid"
+  ],
+  "pistolLempty": [
+    "Squid"
+  ],
+  "Packin' Heat L": [
+    "Kraken",
+    "Crate"
+  ],
+  "Packin' Heat R": [
+    "Kraken",
+    "Crate"
+  ],
+  "I see stars": [
+    "Zombie Dragon Walking",
+    "Zombie Dragon Flying"
+  ],
+  "Sombrero": [
+    "Zombie Dragon Walking",
+    "Zombie Dragon Flying"
+  ],
+  "BoloTie": [
+    "Ice Golem",
+    "Fire Golem",
+    "Fire Golem"
+  ],
+  "American Pride": [
+    "Ice Golem",
+    "Fire Golem",
+    "Cecilia"
+  ],
+  "Aussie Pride": [
+    "Ice Golem",
+    "Fire Golem"
+  ],
+  "4th July": [
+    "Ice Golem",
+    "Fire Golem"
+  ],
+  "Brown Moustache": [
+    "Crabzilla",
+    "Zombie Maker"
+  ],
+  "Black Moustache": [
+    "Crabzilla",
+    "Zombie Maker"
+  ],
+  "Grey Moustache": [
+    "Crabzilla",
+    "Zombie Maker"
+  ],
+  "Red Moustache": [
+    "Crabzilla",
+    "Zombie Maker"
+  ],
+  "Cecilia's Love": [
+    "Cecilia"
+  ],
+  "Cecilia's Dragon Plushie": [
+    "Cecilia"
+  ],
+  "dandypuffs": [
+    "Cecilia"
+  ],
+  "Cockatiel": [
+    "Cockatiel"
+  ],
+  "Cockatiel Feathers": [
+    "Cockatiel"
+  ],
+  "Sherrif's Badge": [
+    "Zombie Maker"
+  ],
+  "Winter Beard": [
+    "KONG"
+  ],
+  "Red Beard": [
+    "KONG"
+  ],
+  "Old Beard": [
+    "KONG"
+  ],
+  "Blonde Beard": [
+    "KONG"
+  ],
+  "Black Beard": [
+    "KONG"
+  ],
+  "JabberBear": [
+    "Jabber Bear"
+  ],
+  "Left Leafy Trail": [
+    "Pooka"
+  ],
+  "Right Leafy Trail": [
+    "Pooka"
+  ],
+  "Blue Fire Shard": [
+    "Pooka",
+    "Crate"
+  ],
+  "Bear Toy": [
+    "Grizzly Bear"
+  ],
+  "Blue Bear Toy": [
+    "Grizzly Bear"
+  ],
+  "Red Bear Toy": [
+    "Grizzly Bear"
+  ],
+  "Yellow Bear Toy": [
+    "Grizzly Bear"
+  ],
+  "Green Bear Toy": [
+    "Grizzly Bear"
+  ],
+  "Violet Bear Toy": [
+    "Grizzly Bear"
+  ],
+  "Pink Piggie Toy": [
+    "Pig Ogre"
+  ],
+  "Blue Piggie Toy": [
+    "Pig Ogre"
+  ],
+  "Green Piggie Toy": [
+    "Pig Ogre"
+  ],
+  "Purple Piggie Toy": [
+    "Pig Ogre"
+  ],
+  "Yellow Piggie Toy": [
+    "Pig Ogre"
+  ],
+  "Gold Tricorn Hat": [
+    "Crate"
+  ],
+  "Green Tricorn Hat": [
+    "Crate"
+  ],
+  "Purple Tricorn Hat": [
+    "Crate"
+  ],
+  "Blue Tricorn Hat": [
+    "Crate"
+  ],
+  "Red Tricorn Hat": [
+    "Crate"
+  ],
+  "Tail feather": [
+    "Budgerigar"
+  ],
+  "Budgie": [
+    "Budgerigar"
+  ],
+  "Aries": [
+    "Jewel Box",
+    "Theron Walking"
+  ],
+  "Leo": [
+    "Jewel Box",
+    "Theron Walking"
+  ],
+  "Sagittarius": [
+    "Jewel Box",
+    "Theron Flying"
+  ],
+  "Taurus": [
+    "Jewel Box",
+    "Theron Flying"
+  ],
+  "Virgo": [
+    "Jewel Box",
+    "Theron Flying"
+  ],
+  "Capricorn": [
+    "Jewel Box",
+    "Theron Walking"
+  ],
+  "Gemini": [
+    "Jewel Box",
+    "Asherah Walking"
+  ],
+  "Libra": [
+    "Jewel Box",
+    "Asherah Walking"
+  ],
+  "Aquarius": [
+    "Jewel Box",
+    "Asherah Walking"
+  ],
+  "Cancer": [
+    "Jewel Box",
+    "Asherah Flying"
+  ],
+  "Scorpio": [
+    "Jewel Box",
+    "Asherah Flying"
+  ],
+  "Pisces": [
+    "Jewel Box",
+    "Asherah Flying"
+  ],
+  "Blue Baby Horns": [
+    "Fenrir "
+  ],
+  "Green Baby Horns": [
+    "Fenrir "
+  ],
+  "Purple Baby Horns": [
+    "Fenrir "
+  ],
+  "Red Baby Horns": [
+    "Fenrir "
+  ],
+  "White Baby Horns": [
+    "Fenrir "
+  ],
+  "Black Baby Horns": [
+    "Fenrir "
+  ],
+  "blackwolftoy": [
+    "Fenrir "
+  ],
+  "Books of Power": [
+    "Theron Walking",
+    "Theron Flying",
+    "Asherah Flying"
+  ],
+  "Red Halo": [
+    "Theron Walking"
+  ],
+  "Phantom Summoning Spells": [
+    "Theron Walking",
+    "Theron Flying",
+    "Asherah Flying"
+  ],
+  "Green Halo": [
+    "Theron Flying"
+  ],
+  "Blue Halo": [
+    "Theron Flying",
+    "Asherah Flying"
+  ],
+  "Purple Halo": [
+    "Asherah Walking",
+    "Asherah Flying"
+  ],
+  "White Halo": [
+    "Asherah Walking"
+  ]
+}
